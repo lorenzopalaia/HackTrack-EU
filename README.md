@@ -16,13 +16,12 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 19 June 2026 at 19:53_
+_Last updated: 20 June 2026 at 12:51_
 
 <!-- UPCOMING_TABLE_START -->
 
 | Hackathon Name                         | Location   | Date            | Topics | URL                                      |
 | -------------------------------------- | ---------- | --------------- | ------ | ---------------------------------------- |
-| Vibe Coding Hackathon                  | London, UK | 20 Jun-22, 2026 |        | [Link](https://lu.ma/4f1qbg8g)           |
 | Encode London Hackathon and Conference | London, UK | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026) |
 
 <!-- UPCOMING_TABLE_END -->
@@ -35,6 +34,7 @@ _Showing last 20 events_
 
 | Hackathon Name                                                         | Location                   | Date            | Topics  | URL                                                    |
 | ---------------------------------------------------------------------- | -------------------------- | --------------- | ------- | ------------------------------------------------------ |
+| Vibe Coding Hackathon                                                  | London, UK                 | 20 Jun-22, 2026 |         | [Link](https://lu.ma/4f1qbg8g)                         |
 | SOFTWARE DEFINED VEHICLE (AI FOR CODING) & TIME TO MARKET              | Modena, Italy              | 29 May 2026     |         | [Link](https://lu.ma/mvf2026-software-defined-vehicle) |
 | Miro x Kiro AMS Hackathon: Building Today to Pitch (a Better) Tomorrow | Amsterdam, Netherlands     | 26 May 2026     |         | [Link](https://lu.ma/y0we1v1p)                         |
 | Vibe Coding Netværk Aarhus #5                                          | Aarhus                     | 21 May 2026     |         | [Link](https://lu.ma/zdhnrmkx)                         |
@@ -54,7 +54,6 @@ _Showing last 20 events_
 | Context is King #3 - Context Engineering for AI Coding Agents          | Helsinki                   | 23 Apr 2026     |         | [Link](https://lu.ma/gah9jmxx)                         |
 | AI Agents for Health: ClawBio Hackathon                                | London, UK                 | 23 Apr 2026     |         | [Link](https://lu.ma/8qtu0xaz)                         |
 | AI Meetup #3: Vibe drinking: vibe coding e networking                  | Biella, Italy              | 23 Apr 2026     |         | [Link](https://lu.ma/tgjjse7n)                         |
-| Hackathon Builder Challenge: AI on the Factory Floor                   | Lausanne, Switzerland      | 22 Apr 2026     |         | [Link](https://lu.ma/zzjbr53k)                         |
 
 <!-- PAST_TABLE_END -->
 
