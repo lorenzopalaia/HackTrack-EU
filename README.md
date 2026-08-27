@@ -16,13 +16,16 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 27 August 2026 at 12:55_
+_Last updated: 27 August 2026 at 14:24_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                         | Location   | Date            | Topics | URL                                      |
-| -------------------------------------- | ---------- | --------------- | ------ | ---------------------------------------- |
-| Encode London Hackathon and Conference | London, UK | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026) |
+| Hackathon Name                         | Location               | Date            | Topics | URL                                         |
+| -------------------------------------- | ---------------------- | --------------- | ------ | ------------------------------------------- |
+| Monad Blitz Amsterdam Hackathon        | Amsterdam, Netherlands | 29 Aug 2026     |        | [Link](https://luma.com/blitz-ams-aug-2026) |
+| Cantor8 London Hackathon               | London, UK             | 29 Aug 2026     |        | [Link](https://luma.com/sjkped24)           |
+| Common S3nse - Conference & Hackathon  | Amsterdam, Netherlands | 4 Sept-5, 2026  |        | [Link](https://luma.com/commons3nse)        |
+| Encode London Hackathon and Conference | London, UK             | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026)    |
 
 <!-- UPCOMING_TABLE_END -->
 
@@ -34,6 +37,7 @@ _Showing last 20 events_
 
 | Hackathon Name                                                         | Location                   | Date            | Topics  | URL                                                    |
 | ---------------------------------------------------------------------- | -------------------------- | --------------- | ------- | ------------------------------------------------------ |
+| Figma Make-a-thon Helsinki                                             | Helsinki, Finland          | 27 Aug 2026     |         | [Link](https://luma.com/g6qnjc47)                      |
 | Vibe Coding Hackathon                                                  | London, UK                 | 20 Jun-22, 2026 |         | [Link](https://lu.ma/4f1qbg8g)                         |
 | SOFTWARE DEFINED VEHICLE (AI FOR CODING) & TIME TO MARKET              | Modena, Italy              | 29 May 2026     |         | [Link](https://lu.ma/mvf2026-software-defined-vehicle) |
 | Miro x Kiro AMS Hackathon: Building Today to Pitch (a Better) Tomorrow | Amsterdam, Netherlands     | 26 May 2026     |         | [Link](https://lu.ma/y0we1v1p)                         |
@@ -53,7 +57,6 @@ _Showing last 20 events_
 | Hackathon Crypto Grand-Prix by PoC Innovation                          | Le Kremlin-bicêtre, France | 23 Apr-25, 2026 |         | [Link](https://lu.ma/1lpmmy6g)                         |
 | Context is King #3 - Context Engineering for AI Coding Agents          | Helsinki                   | 23 Apr 2026     |         | [Link](https://lu.ma/gah9jmxx)                         |
 | AI Agents for Health: ClawBio Hackathon                                | London, UK                 | 23 Apr 2026     |         | [Link](https://lu.ma/8qtu0xaz)                         |
-| AI Meetup #3: Vibe drinking: vibe coding e networking                  | Biella, Italy              | 23 Apr 2026     |         | [Link](https://lu.ma/tgjjse7n)                         |
 
 <!-- PAST_TABLE_END -->
 
