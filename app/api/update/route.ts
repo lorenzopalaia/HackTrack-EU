@@ -470,37 +470,42 @@ export async function POST(request: Request) {
 
     MemoryOptimizer.logMemoryUsage("Final memory usage");
 
-    return NextResponse.json({
-      success,
-      testMode,
+    return NextResponse.json(
+      {
+        success,
+        testMode,
 
-      parsed: parsedHackathons.length,
-      inserted: newHackathons.length,
+        parsed: parsedHackathons.length,
+        inserted: newHackathons.length,
 
-      dataChanged,
+        dataChanged,
 
-      sources: sourceResults,
+        sources: sourceResults,
 
-      sourceErrors: sourceErrors.length > 0 ? sourceErrors : undefined,
+        sourceErrors: sourceErrors.length > 0 ? sourceErrors : undefined,
 
-      resetError,
-      insertionError,
+        resetError,
+        insertionError,
 
-      statusUpdateError,
-      statusesUpdated,
+        statusUpdateError,
+        statusesUpdated,
 
-      notificationsSent,
+        notificationsSent,
 
-      readmeUpdated,
-      readmeError,
+        readmeUpdated,
+        readmeError,
 
-      notificationErrors:
-        notificationErrors.length > 0 ? notificationErrors : undefined,
+        notificationErrors:
+          notificationErrors.length > 0 ? notificationErrors : undefined,
 
-      timestamp: new Date().toISOString(),
+        timestamp: new Date().toISOString(),
 
-      memoryUsage: MemoryOptimizer.getMemoryUsage(),
-    });
+        memoryUsage: MemoryOptimizer.getMemoryUsage(),
+      },
+      {
+        status: success ? 200 : 500,
+      },
+    );
   } catch (error) {
     console.error("Update error:", error);
 
