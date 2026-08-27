@@ -16,12 +16,14 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 27 August 2026 at 14:24_
+_Last updated: 27 August 2026 at 19:45_
 
 <!-- UPCOMING_TABLE_START -->
 
 | Hackathon Name                         | Location               | Date            | Topics | URL                                         |
 | -------------------------------------- | ---------------------- | --------------- | ------ | ------------------------------------------- |
+| CODE Hackathon                         | Berlin, Germany        | 28 Aug 2026     |        | [Link](https://luma.com/me4sa82z)           |
+| MKIK x AI Klub AI Hackathon            | Budapest, Hungary      | 28 Aug 2026     |        | [Link](https://luma.com/nqgdrv58)           |
 | Monad Blitz Amsterdam Hackathon        | Amsterdam, Netherlands | 29 Aug 2026     |        | [Link](https://luma.com/blitz-ams-aug-2026) |
 | Cantor8 London Hackathon               | London, UK             | 29 Aug 2026     |        | [Link](https://luma.com/sjkped24)           |
 | Common S3nse - Conference & Hackathon  | Amsterdam, Netherlands | 4 Sept-5, 2026  |        | [Link](https://luma.com/commons3nse)        |
