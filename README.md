@@ -16,7 +16,7 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 1 September 2026 at 20:44_
+_Last updated: 2 September 2026 at 13:28_
 
 <!-- UPCOMING_TABLE_START -->
 
@@ -36,6 +36,7 @@ _Showing last 20 events_
 
 | Hackathon Name                                                               | Location               | Date            | Topics | URL                                                    |
 | ---------------------------------------------------------------------------- | ---------------------- | --------------- | ------ | ------------------------------------------------------ |
+| Fuckup Nights London #10: Hackathon                                          | London, UK             | 2 Sept 2026     |        | [Link](https://luma.com/u9mewkje)                      |
 | Hardware Hack Day                                                            | London, UK             | 30 Aug 2026     |        | [Link](https://luma.com/granola-hardware-hack-day)     |
 | Hackathon - Translating AI Safety (Content x Comms)                          | London, UK             | 30 Aug 2026     |        | [Link](https://luma.com/b4myja5u)                      |
 | Cantor8 London Hackathon                                                     | London, UK             | 29 Aug 2026     |        | [Link](https://luma.com/sjkped24)                      |
@@ -55,7 +56,6 @@ _Showing last 20 events_
 | Vibe Coding Netværk Aarhus #5                                                | Aarhus                 | 21 May 2026     |        | [Link](https://lu.ma/zdhnrmkx)                         |
 | AI Agent Olympics Hackathon                                                  | Rho, Italy             | 19 May-20, 2026 |        | [Link](https://lu.ma/5fxlxfl5)                         |
 | Kill the Search Bar - pdm Hackathon 2026                                     | Berlin, Germany        | 15 May-17, 2026 |        | [Link](https://lu.ma/2e3aa6yj)                         |
-| Vibecoding Level 2 - Med Simon Souyris Strumse                               | Ås, Norway             | 12 May 2026     |        | [Link](https://lu.ma/ui0kaxdp)                         |
 
 <!-- PAST_TABLE_END -->
 
