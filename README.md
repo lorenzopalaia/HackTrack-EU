@@ -16,13 +16,14 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 2 September 2026 at 13:28_
+_Last updated: 2 September 2026 at 17:54_
 
 <!-- UPCOMING_TABLE_START -->
 
 | Hackathon Name                                                          | Location               | Date            | Topics | URL                                      |
 | ----------------------------------------------------------------------- | ---------------------- | --------------- | ------ | ---------------------------------------- |
 | GEO Hackathon Köln ft. octonomy, OpenAI, blinq, snipKI, scaile & duwerk | Köln, Germany          | 3 Sept 2026     |        | [Link](https://luma.com/o5z2o50w)        |
+| S4S Intro to Hackathon                                                  | Lausanne, Switzerland  | 3 Sept 2026     |        | [Link](https://luma.com/d05y723t)        |
 | Common S3nse - Conference & Hackathon                                   | Amsterdam, Netherlands | 4 Sept-5, 2026  |        | [Link](https://luma.com/commons3nse)     |
 | Encode London Hackathon and Conference                                  | London, UK             | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026) |
 
