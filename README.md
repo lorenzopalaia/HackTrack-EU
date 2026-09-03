@@ -16,14 +16,16 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 3 September 2026 at 13:30_
+_Last updated: 3 September 2026 at 20:38_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                         | Location               | Date            | Topics | URL                                      |
-| -------------------------------------- | ---------------------- | --------------- | ------ | ---------------------------------------- |
-| Common S3nse - Conference & Hackathon  | Amsterdam, Netherlands | 4 Sept-5, 2026  |        | [Link](https://luma.com/commons3nse)     |
-| Encode London Hackathon and Conference | London, UK             | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026) |
+| Hackathon Name                                                           | Location               | Date            | Topics | URL                                      |
+| ------------------------------------------------------------------------ | ---------------------- | --------------- | ------ | ---------------------------------------- |
+| Common S3nse - Conference & Hackathon                                    | Amsterdam, Netherlands | 4 Sept-5, 2026  |        | [Link](https://luma.com/commons3nse)     |
+| Rebuild Private Markets: The Ylookup x Encode AI Hackathon               | London, UK             | 5 Sept-6, 2026  |        | [Link](https://luma.com/encode-7hd7)     |
+| Al Game Console Hackathon: Build a Handheld AI Game Console in 12 hours! | København, Denmark     | 5 Sept 2026     |        | [Link](https://luma.com/afn-lyc1)        |
+| Encode London Hackathon and Conference                                   | London, UK             | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026) |
 
 <!-- UPCOMING_TABLE_END -->
 
@@ -44,9 +46,9 @@ _Showing last 20 events_
 | Cantor8 London Hackathon                                                     | London, UK             | 29 Aug 2026     |        | [Link](https://luma.com/sjkped24)                      |
 | House London #1 - Data Hackathon                                             | London, UK             | 29 Aug 2026     |        | [Link](https://luma.com/ufmgc59d)                      |
 | SSES Hackathon Ice Cream Break                                               | Stockholm, Sweden      | 29 Aug 2026     |        | [Link](https://luma.com/lrjxuw3y)                      |
+| Monad Blitz Amsterdam Hackathon                                              | Amsterdam, Netherlands | 29 Aug 2026     |        | [Link](https://luma.com/blitz-ams-aug-2026)            |
 | GIRLS WHO AI X BUILDHER LABS PRESENT: BEAUTY DECODED // ALL FEMALE HACKATHON | London, UK             | 29 Aug 2026     |        | [Link](https://luma.com/sklovsnj)                      |
 | The Running Hackathon                                                        | London, UK             | 29 Aug 2026     |        | [Link](https://luma.com/tag-wx1t)                      |
-| Monad Blitz Amsterdam Hackathon                                              | Amsterdam, Netherlands | 29 Aug 2026     |        | [Link](https://luma.com/blitz-ams-aug-2026)            |
 | MKIK x AI Klub AI Hackathon                                                  | Budapest, Hungary      | 28 Aug 2026     |        | [Link](https://luma.com/nqgdrv58)                      |
 | CODE Hackathon                                                               | Berlin, Germany        | 28 Aug 2026     |        | [Link](https://luma.com/me4sa82z)                      |
 | SYE Hackathon                                                                | Stockholm, Sweden      | 28 Aug-30, 2026 |        | [Link](https://luma.com/42lrw3lh)                      |
