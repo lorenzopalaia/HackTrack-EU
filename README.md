@@ -16,16 +16,14 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 2 September 2026 at 17:54_
+_Last updated: 3 September 2026 at 13:30_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                                                          | Location               | Date            | Topics | URL                                      |
-| ----------------------------------------------------------------------- | ---------------------- | --------------- | ------ | ---------------------------------------- |
-| GEO Hackathon Köln ft. octonomy, OpenAI, blinq, snipKI, scaile & duwerk | Köln, Germany          | 3 Sept 2026     |        | [Link](https://luma.com/o5z2o50w)        |
-| S4S Intro to Hackathon                                                  | Lausanne, Switzerland  | 3 Sept 2026     |        | [Link](https://luma.com/d05y723t)        |
-| Common S3nse - Conference & Hackathon                                   | Amsterdam, Netherlands | 4 Sept-5, 2026  |        | [Link](https://luma.com/commons3nse)     |
-| Encode London Hackathon and Conference                                  | London, UK             | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026) |
+| Hackathon Name                         | Location               | Date            | Topics | URL                                      |
+| -------------------------------------- | ---------------------- | --------------- | ------ | ---------------------------------------- |
+| Common S3nse - Conference & Hackathon  | Amsterdam, Netherlands | 4 Sept-5, 2026  |        | [Link](https://luma.com/commons3nse)     |
+| Encode London Hackathon and Conference | London, UK             | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026) |
 
 <!-- UPCOMING_TABLE_END -->
 
@@ -37,15 +35,18 @@ _Showing last 20 events_
 
 | Hackathon Name                                                               | Location               | Date            | Topics | URL                                                    |
 | ---------------------------------------------------------------------------- | ---------------------- | --------------- | ------ | ------------------------------------------------------ |
+| S4S Intro to Hackathon                                                       | Lausanne, Switzerland  | 3 Sept 2026     |        | [Link](https://luma.com/d05y723t)                      |
+| GEO Hackathon Köln ft. octonomy, OpenAI, blinq, snipKI, scaile & duwerk      | Köln, Germany          | 3 Sept 2026     |        | [Link](https://luma.com/o5z2o50w)                      |
+| AI Builders Program - Apply to Join - The AI Vision Challenge                | London, UK             | 3 Sept 2026     |        | [Link](https://luma.com/904em2y3)                      |
 | Fuckup Nights London #10: Hackathon                                          | London, UK             | 2 Sept 2026     |        | [Link](https://luma.com/u9mewkje)                      |
 | Hardware Hack Day                                                            | London, UK             | 30 Aug 2026     |        | [Link](https://luma.com/granola-hardware-hack-day)     |
 | Hackathon - Translating AI Safety (Content x Comms)                          | London, UK             | 30 Aug 2026     |        | [Link](https://luma.com/b4myja5u)                      |
 | Cantor8 London Hackathon                                                     | London, UK             | 29 Aug 2026     |        | [Link](https://luma.com/sjkped24)                      |
-| Monad Blitz Amsterdam Hackathon                                              | Amsterdam, Netherlands | 29 Aug 2026     |        | [Link](https://luma.com/blitz-ams-aug-2026)            |
 | House London #1 - Data Hackathon                                             | London, UK             | 29 Aug 2026     |        | [Link](https://luma.com/ufmgc59d)                      |
 | SSES Hackathon Ice Cream Break                                               | Stockholm, Sweden      | 29 Aug 2026     |        | [Link](https://luma.com/lrjxuw3y)                      |
 | GIRLS WHO AI X BUILDHER LABS PRESENT: BEAUTY DECODED // ALL FEMALE HACKATHON | London, UK             | 29 Aug 2026     |        | [Link](https://luma.com/sklovsnj)                      |
 | The Running Hackathon                                                        | London, UK             | 29 Aug 2026     |        | [Link](https://luma.com/tag-wx1t)                      |
+| Monad Blitz Amsterdam Hackathon                                              | Amsterdam, Netherlands | 29 Aug 2026     |        | [Link](https://luma.com/blitz-ams-aug-2026)            |
 | MKIK x AI Klub AI Hackathon                                                  | Budapest, Hungary      | 28 Aug 2026     |        | [Link](https://luma.com/nqgdrv58)                      |
 | CODE Hackathon                                                               | Berlin, Germany        | 28 Aug 2026     |        | [Link](https://luma.com/me4sa82z)                      |
 | SYE Hackathon                                                                | Stockholm, Sweden      | 28 Aug-30, 2026 |        | [Link](https://luma.com/42lrw3lh)                      |
@@ -54,9 +55,6 @@ _Showing last 20 events_
 | Vibe Coding Hackathon                                                        | London, UK             | 20 Jun-22, 2026 |        | [Link](https://lu.ma/4f1qbg8g)                         |
 | SOFTWARE DEFINED VEHICLE (AI FOR CODING) & TIME TO MARKET                    | Modena, Italy          | 29 May 2026     |        | [Link](https://lu.ma/mvf2026-software-defined-vehicle) |
 | Miro x Kiro AMS Hackathon: Building Today to Pitch (a Better) Tomorrow       | Amsterdam, Netherlands | 26 May 2026     |        | [Link](https://lu.ma/y0we1v1p)                         |
-| Vibe Coding Netværk Aarhus #5                                                | Aarhus                 | 21 May 2026     |        | [Link](https://lu.ma/zdhnrmkx)                         |
-| AI Agent Olympics Hackathon                                                  | Rho, Italy             | 19 May-20, 2026 |        | [Link](https://lu.ma/5fxlxfl5)                         |
-| Kill the Search Bar - pdm Hackathon 2026                                     | Berlin, Germany        | 15 May-17, 2026 |        | [Link](https://lu.ma/2e3aa6yj)                         |
 
 <!-- PAST_TABLE_END -->
 
