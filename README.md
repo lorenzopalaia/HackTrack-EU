@@ -16,16 +16,16 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 3 September 2026 at 20:38_
+_Last updated: 4 September 2026 at 17:38_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                                                           | Location               | Date            | Topics | URL                                      |
-| ------------------------------------------------------------------------ | ---------------------- | --------------- | ------ | ---------------------------------------- |
-| Common S3nse - Conference & Hackathon                                    | Amsterdam, Netherlands | 4 Sept-5, 2026  |        | [Link](https://luma.com/commons3nse)     |
-| Rebuild Private Markets: The Ylookup x Encode AI Hackathon               | London, UK             | 5 Sept-6, 2026  |        | [Link](https://luma.com/encode-7hd7)     |
-| Al Game Console Hackathon: Build a Handheld AI Game Console in 12 hours! | København, Denmark     | 5 Sept 2026     |        | [Link](https://luma.com/afn-lyc1)        |
-| Encode London Hackathon and Conference                                   | London, UK             | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026) |
+| Hackathon Name                                                           | Location           | Date             | Topics | URL                                      |
+| ------------------------------------------------------------------------ | ------------------ | ---------------- | ------ | ---------------------------------------- |
+| Al Game Console Hackathon: Build a Handheld AI Game Console in 12 hours! | København, Denmark | 5 Sept 2026      |        | [Link](https://luma.com/afn-lyc1)        |
+| Rebuild Private Markets: The Ylookup x Encode AI Hackathon               | London, UK         | 5 Sept-6, 2026   |        | [Link](https://luma.com/encode-7hd7)     |
+| XRPL Lending Protocol Hackathon                                          | Nanterre, France   | 12 Sept-13, 2026 |        | [Link](https://luma.com/t4ttb973)        |
+| Encode London Hackathon and Conference                                   | London, UK         | 23 Oct-25, 2026  |        | [Link](https://lu.ma/encode-london-2026) |
 
 <!-- UPCOMING_TABLE_END -->
 
@@ -37,9 +37,10 @@ _Showing last 20 events_
 
 | Hackathon Name                                                               | Location               | Date            | Topics | URL                                                    |
 | ---------------------------------------------------------------------------- | ---------------------- | --------------- | ------ | ------------------------------------------------------ |
+| Common S3nse - Conference & Hackathon                                        | Amsterdam, Netherlands | 4 Sept-5, 2026  |        | [Link](https://luma.com/commons3nse)                   |
 | S4S Intro to Hackathon                                                       | Lausanne, Switzerland  | 3 Sept 2026     |        | [Link](https://luma.com/d05y723t)                      |
-| GEO Hackathon Köln ft. octonomy, OpenAI, blinq, snipKI, scaile & duwerk      | Köln, Germany          | 3 Sept 2026     |        | [Link](https://luma.com/o5z2o50w)                      |
 | AI Builders Program - Apply to Join - The AI Vision Challenge                | London, UK             | 3 Sept 2026     |        | [Link](https://luma.com/904em2y3)                      |
+| GEO Hackathon Köln ft. octonomy, OpenAI, blinq, snipKI, scaile & duwerk      | Köln, Germany          | 3 Sept 2026     |        | [Link](https://luma.com/o5z2o50w)                      |
 | Fuckup Nights London #10: Hackathon                                          | London, UK             | 2 Sept 2026     |        | [Link](https://luma.com/u9mewkje)                      |
 | Hardware Hack Day                                                            | London, UK             | 30 Aug 2026     |        | [Link](https://luma.com/granola-hardware-hack-day)     |
 | Hackathon - Translating AI Safety (Content x Comms)                          | London, UK             | 30 Aug 2026     |        | [Link](https://luma.com/b4myja5u)                      |
@@ -56,7 +57,6 @@ _Showing last 20 events_
 | Figma Make-a-thon Helsinki                                                   | Helsinki, Finland      | 27 Aug 2026     |        | [Link](https://luma.com/g6qnjc47)                      |
 | Vibe Coding Hackathon                                                        | London, UK             | 20 Jun-22, 2026 |        | [Link](https://lu.ma/4f1qbg8g)                         |
 | SOFTWARE DEFINED VEHICLE (AI FOR CODING) & TIME TO MARKET                    | Modena, Italy          | 29 May 2026     |        | [Link](https://lu.ma/mvf2026-software-defined-vehicle) |
-| Miro x Kiro AMS Hackathon: Building Today to Pitch (a Better) Tomorrow       | Amsterdam, Netherlands | 26 May 2026     |        | [Link](https://lu.ma/y0we1v1p)                         |
 
 <!-- PAST_TABLE_END -->
 
