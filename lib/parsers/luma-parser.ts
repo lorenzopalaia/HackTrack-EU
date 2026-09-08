@@ -133,18 +133,16 @@ export class LumaParser extends BaseParser {
   /**
    * Deterministic hackathon classifier.
    *
-   * Strong signals:
-   * - hackathon
-   * - hack day / hackday
-   * - hack-a-thon
-   * - make-a-thon / makeathon
-   * - buildathon
-   * - codefest
+   * Strategy:
    *
-   * Medium signals are accepted only when accompanied by
-   * an explicit technical/developer context.
+   * 1. Reject obvious non-hackathon / satellite events.
+   * 2. Accept strong hackathon terminology when the event title
+   *    actually describes the hackathon itself.
+   * 3. For generic competition/challenge terminology, require
+   *    additional hackathon evidence from title/description.
    *
-   * Obvious post-event / celebration entries are rejected.
+   * The goal is precision first: only events that are reasonably
+   * identifiable as actual hackathons should pass.
    */
   private filterHackathons(events: LumaEventEntry[]): ParsedHackathon[] {
     return events
@@ -161,22 +159,63 @@ export class LumaParser extends BaseParser {
       return false;
     }
 
+    const text = `${title} ${description}`;
+
     // ---------------------------------------------------------
-    // 1. Strong exclusions
+    // 1. Hard exclusions
     // ---------------------------------------------------------
     //
-    // Events whose title refers to an already-concluded
-    // hackathon or a social event around it.
+    // These patterns strongly indicate that the event is about
+    // an existing hackathon rather than being the hackathon itself.
     //
-    const exclusionPatterns = [
-      /\bwinners?\s+(celebration|party|ceremony)\b/,
-      /\bhackathon\s+(winners?|results?|awards?)\b/,
+    const hardExclusionPatterns = [
+      // Generic satellite / community events
+      /\bmeetups?\b/,
+      /\bmeet[-\s]?ups?\b/,
+      /\bnetworking\b/,
+      /\bmasterclass\b/,
+      /\bwebinar\b/,
+      /\bweb\s+session\b/,
+      /\boffice\s+hours?\b/,
+      /\bfireside\b/,
+      /\bpanel\b/,
+      /\bkeynote\b/,
+
+      // Educational / preparation events
+      /\bhow\s+to\s+win\s+(a|the)?\s*hackathons?\b/,
+      /\bhackathon\s+(prep|preparation)\b/,
+      /\bpre[-\s]?hackathon\b/,
+      /\bhackathon\s+(intro|introduction)\b/,
+      /\babout\s+hackathons?\b/,
+      /\bhackathons?\s+101\b/,
+
+      // Launch / kickoff / warmup
+      /\bhackathon\s+(launch|kick[-\s]?off|warm[-\s]?up)\b/,
+      /\bhackathon\s+(opening|welcome)\b/,
+
+      // Closing / celebration
+      /\bhackathon\s+(closing|reunion|celebration|party|ceremony)\b/,
+      /\bpost[-\s]?hackathon\b/,
       /\bafterparty\b/,
       /\bafter\s*party\b/,
-      /\bcelebration\s+(party|event)\b/,
+
+      // Results / awards
+      /\bhackathon\s+(results?|awards?|winners?)\b/,
+      /\bwinners?\s+(celebration|party|ceremony)\b/,
+
+      // Demo / showcase / pitch events
+      /\bhackathon\s+(demo|showcase)\b/,
+      /\bhackathon\s+demo\s+(day|night)\b/,
+      /\bhackathon\s+(finalists?|finals?)\s+(demo|showcase|pitch)\b/,
+      /\bhackathon\s+(pitch|pitching)\s+(session|showcase|event)\b/,
+      /\bhackathon\s+submission\s+(day|event|session)\b/,
+
+      // Generic event explicitly framed as something around an
+      // existing hackathon
+      /\b(hackathon|hack\s*day)\s+(meetup|workshop|session)\b/,
     ];
 
-    if (exclusionPatterns.some((pattern) => pattern.test(title))) {
+    if (hardExclusionPatterns.some((pattern) => pattern.test(title))) {
       return false;
     }
 
@@ -184,7 +223,7 @@ export class LumaParser extends BaseParser {
     // 2. Strong hackathon signals
     // ---------------------------------------------------------
     //
-    // These are sufficient on their own.
+    // These identify hackathon-like event formats.
     //
     const strongHackathonPatterns = [
       /\bhackathons?\b/,
@@ -195,17 +234,34 @@ export class LumaParser extends BaseParser {
       /\bcodefests?\b/,
     ];
 
-    if (strongHackathonPatterns.some((pattern) => pattern.test(title))) {
+    const hasStrongHackathonSignal = strongHackathonPatterns.some(
+      (pattern) => pattern.test(title),
+    );
+
+    if (hasStrongHackathonSignal) {
+      /*
+       * A strong keyword is normally sufficient, but we still reject
+       * events whose wording makes it clear that the event is merely
+       * adjacent to the hackathon.
+       *
+       * Examples that should NOT pass:
+       * - Hackathon Demo
+       * - Hackathon Meetup
+       * - Hackathon Workshop
+       * - Hackathon Submission Day
+       *
+       * Those cases are handled by the hard exclusions above.
+       */
       return true;
     }
 
     // ---------------------------------------------------------
-    // 3. Medium-strength signals
+    // 3. Medium-strength competition signals
     // ---------------------------------------------------------
     //
-    // We deliberately do NOT accept "coding" alone.
-    // It has to appear together with a competition/challenge
-    // concept.
+    // "Challenge", "competition" and "contest" are NOT enough by
+    // themselves. They must be accompanied by actual hackathon
+    // evidence.
     //
     const competitionPatterns = [
       /\bchallenge\b/,
@@ -213,37 +269,56 @@ export class LumaParser extends BaseParser {
       /\bcontest\b/,
     ];
 
-    const technicalPatterns = [
-      /\bai\b/,
-      /\bartificial intelligence\b/,
-      /\bmachine learning\b/,
-      /\bml\b/,
-      /\bdeveloper\b/,
-      /\bdevelopers\b/,
-      /\bprogramming\b/,
-      /\bcoding\b/,
-      /\bsoftware\b/,
-      /\bweb3\b/,
-      /\bblockchain\b/,
-      /\bcrypto\b/,
-      /\bsolana\b/,
-      /\bethereum\b/,
-      /\bopen source\b/,
-      /\bbuild\b/,
-      /\bbuilder\b/,
-      /\bbuilders\b/,
-      /\bprototype\b/,
-    ];
-
     const hasCompetitionSignal = competitionPatterns.some((pattern) =>
       pattern.test(title),
     );
 
-    const hasTechnicalSignal = technicalPatterns.some(
-      (pattern) => pattern.test(title) || pattern.test(description),
-    );
+    if (!hasCompetitionSignal) {
+      return false;
+    }
 
-    if (hasCompetitionSignal && hasTechnicalSignal) {
+    // ---------------------------------------------------------
+    // 4. Hackathon evidence
+    // ---------------------------------------------------------
+    //
+    // We look for signals associated with actually building and
+    // submitting a project as part of a competitive event.
+    //
+    const hackathonEvidencePatterns = [
+      /\bteam(s)?\b/,
+      /\bparticipant(s)?\b/,
+      /\bdeveloper(s)?\b/,
+      /\bbuilder(s)?\b/,
+      /\bbuild(ing)?\b/,
+      /\bprototype(s)?\b/,
+      /\bproject(s)?\b/,
+      /\bsubmit\b/,
+      /\bsubmission(s)?\b/,
+      /\bjudg(e|es|ed|ing|ment)\b/,
+      /\bjury\b/,
+      /\bprize(s)?\b/,
+      /\bprize\s+pool\b/,
+      /\bwinner(s)?\b/,
+      /\bbount(y|ies)\b/,
+      /\bdeadline\b/,
+      /\bhackathon\b/,
+      /\bhack[\s-]*day\b/,
+    ];
+
+    const evidenceCount = hackathonEvidencePatterns.filter((pattern) =>
+      pattern.test(text),
+    ).length;
+
+    /*
+     * Require at least two independent hackathon-related signals.
+     *
+     * Examples:
+     * "AI Challenge"                         -> 0/1 -> reject
+     * "AI Developer Challenge + Prizes"      -> 2 -> accept
+     * "Blockchain Competition + Submission"  -> 2 -> accept
+     * "Coding Contest"                       -> 0/1 -> reject
+     */
+    if (evidenceCount >= 2) {
       return true;
     }
 
