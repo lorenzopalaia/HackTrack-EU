@@ -16,18 +16,19 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 9 September 2026 at 13:39_
+_Last updated: 9 September 2026 at 17:55_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                                                   | Location             | Date             | Topics | URL                                                      |
-| ---------------------------------------------------------------- | -------------------- | ---------------- | ------ | -------------------------------------------------------- |
-| XRPL Lending Protocol Hackathon                                  | Nanterre, France     | 12 Sept-13, 2026 |        | [Link](https://luma.com/t4ttb973)                        |
-| Bir Hackathon Nasıl Kazanılır? Blockchain 101 ve Ürün Geliştirme | Sarıyer, Turkey      | 16 Sept 2026     |        | [Link](https://luma.com/blockchain101-istanbul-sep-2026) |
-| Zero to Hero: From Idea to Hackathon // Bratislava               | Bratislava, Slovakia | 16 Sept 2026     |        | [Link](https://luma.com/vc7a2eld)                        |
-| Technical Bootcamp - road to Solana Hackathon                    | Berlin, Germany      | 17 Sept-18, 2026 |        | [Link](https://luma.com/techBootcamp)                    |
-| Find your cofounder - Solana Hackathon kickoff mixer             | Berlin, Germany      | 17 Sept 2026     |        | [Link](https://luma.com/cofoundermixer)                  |
-| Encode London Hackathon and Conference                           | London, UK           | 23 Oct-25, 2026  |        | [Link](https://lu.ma/encode-london-2026)                 |
+| Hackathon Name                                                   | Location                   | Date             | Topics | URL                                                      |
+| ---------------------------------------------------------------- | -------------------------- | ---------------- | ------ | -------------------------------------------------------- |
+| XRPL Lending Protocol Hackathon                                  | Nanterre, France           | 12 Sept-13, 2026 |        | [Link](https://luma.com/t4ttb973)                        |
+| Zero to Hero: From Idea to Hackathon // Brno                     | Brno-město, Czech Republic | 15 Sept 2026     |        | [Link](https://luma.com/sc7t7kg7)                        |
+| Bir Hackathon Nasıl Kazanılır? Blockchain 101 ve Ürün Geliştirme | Sarıyer, Turkey            | 16 Sept 2026     |        | [Link](https://luma.com/blockchain101-istanbul-sep-2026) |
+| Zero to Hero: From Idea to Hackathon // Bratislava               | Bratislava, Slovakia       | 16 Sept 2026     |        | [Link](https://luma.com/vc7a2eld)                        |
+| Find your cofounder - Solana Hackathon kickoff mixer             | Berlin, Germany            | 17 Sept 2026     |        | [Link](https://luma.com/cofoundermixer)                  |
+| Technical Bootcamp - road to Solana Hackathon                    | Berlin, Germany            | 17 Sept-18, 2026 |        | [Link](https://luma.com/techBootcamp)                    |
+| Encode London Hackathon and Conference                           | London, UK                 | 23 Oct-25, 2026  |        | [Link](https://lu.ma/encode-london-2026)                 |
 
 <!-- UPCOMING_TABLE_END -->
 
