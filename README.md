@@ -16,14 +16,18 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 10 September 2026 at 20:27_
+_Last updated: 11 September 2026 at 13:31_
 
 <!-- UPCOMING_TABLE_START -->
 
 | Hackathon Name                                                   | Location                   | Date             | Topics | URL                                                      |
 | ---------------------------------------------------------------- | -------------------------- | ---------------- | ------ | -------------------------------------------------------- |
-| The Future of Finance Hackathon                                  | London, UK                 | 11 Sept 2026     |        | [Link](https://luma.com/8rcrfsii)                        |
+| AI.WOMEN Hackathon                                               | Hamburg, Germany           | 12 Sept-13, 2026 |        | [Link](https://luma.com/zh2gkqd0)                        |
 | XRPL Lending Protocol Hackathon                                  | Nanterre, France           | 12 Sept-13, 2026 |        | [Link](https://luma.com/t4ttb973)                        |
+| WORLDS - LONDON Hackathon                                        | London, UK                 | 12 Sept 2026     |        | [Link](https://luma.com/rsbvv2nk)                        |
+| Grok Bot Serbia Hackathon                                        | Beograd, Serbia            | 12 Sept 2026     |        | [Link](https://luma.com/ghvnbjlx)                        |
+| AI Healthcare Hackathon with Anima x OpenAI                      | London, UK                 | 12 Sept 2026     |        | [Link](https://luma.com/animaxopenai)                    |
+| AI Hackathon - START Stuttgart                                   | Ludwigsburg, Germany       | 12 Sept 2026     |        | [Link](https://luma.com/ncmuch92)                        |
 | Zero to Hero: From Idea to Hackathon // Brno                     | Brno-město, Czech Republic | 15 Sept 2026     |        | [Link](https://luma.com/sc7t7kg7)                        |
 | Bir Hackathon Nasıl Kazanılır? Blockchain 101 ve Ürün Geliştirme | Sarıyer, Turkey            | 16 Sept 2026     |        | [Link](https://luma.com/blockchain101-istanbul-sep-2026) |
 | Zero to Hero: From Idea to Hackathon // Bratislava               | Bratislava, Slovakia       | 16 Sept 2026     |        | [Link](https://luma.com/vc7a2eld)                        |
@@ -39,28 +43,28 @@ _Showing last 20 events_
 
 <!-- PAST_TABLE_START -->
 
-| Hackathon Name                                                                     | Location               | Date           | Topics | URL                                                |
-| ---------------------------------------------------------------------------------- | ---------------------- | -------------- | ------ | -------------------------------------------------- |
-| From Spreadsheet Chaos to One Source of Truth: AI Hackathon for VCSE & SME Leaders | Birmingham, UK         | 9 Sept 2026    |        | [Link](https://luma.com/softr-zs3l)                |
-| nao hackathon & breakfast Paris #4                                                 | Paris, France          | 9 Sept 2026    |        | [Link](https://luma.com/40d6o99n)                  |
-| Hardware hackathon, build the agent control deck!                                  | Budapest, Hungary      | 9 Sept 2026    |        | [Link](https://luma.com/buneo4d8)                  |
-| Lovable & Drivhuset Impact Buildathon                                              | Stockholm, Sweden      | 8 Sept 2026    |        | [Link](https://luma.com/18586nut)                  |
-| Unimicro Hackathon                                                                 | Bergen, Norway         | 7 Sept 2026    |        | [Link](https://luma.com/hn9t4bpv)                  |
-| Rebuild Private Markets: The Ylookup x Encode AI Hackathon                         | London, UK             | 5 Sept-6, 2026 |        | [Link](https://luma.com/encode-7hd7)               |
-| Al Game Console Hackathon: Build a Handheld AI Game Console in 12 hours!           | København, Denmark     | 5 Sept 2026    |        | [Link](https://luma.com/afn-lyc1)                  |
-| Common S3nse - Conference & Hackathon                                              | Amsterdam, Netherlands | 4 Sept-5, 2026 |        | [Link](https://luma.com/commons3nse)               |
-| S4S Intro to Hackathon                                                             | Lausanne, Switzerland  | 3 Sept 2026    |        | [Link](https://luma.com/d05y723t)                  |
-| AI Builders Program - Apply to Join - The AI Vision Challenge                      | London, UK             | 3 Sept 2026    |        | [Link](https://luma.com/904em2y3)                  |
-| GEO Hackathon Köln ft. octonomy, OpenAI, blinq, snipKI, scaile & duwerk            | Köln, Germany          | 3 Sept 2026    |        | [Link](https://luma.com/o5z2o50w)                  |
-| Fuckup Nights London #10: Hackathon                                                | London, UK             | 2 Sept 2026    |        | [Link](https://luma.com/u9mewkje)                  |
-| Hardware Hack Day                                                                  | London, UK             | 30 Aug 2026    |        | [Link](https://luma.com/granola-hardware-hack-day) |
-| Hackathon - Translating AI Safety (Content x Comms)                                | London, UK             | 30 Aug 2026    |        | [Link](https://luma.com/b4myja5u)                  |
-| Cantor8 London Hackathon                                                           | London, UK             | 29 Aug 2026    |        | [Link](https://luma.com/sjkped24)                  |
-| House London #1 - Data Hackathon                                                   | London, UK             | 29 Aug 2026    |        | [Link](https://luma.com/ufmgc59d)                  |
-| SSES Hackathon Ice Cream Break                                                     | Stockholm, Sweden      | 29 Aug 2026    |        | [Link](https://luma.com/lrjxuw3y)                  |
-| Monad Blitz Amsterdam Hackathon                                                    | Amsterdam, Netherlands | 29 Aug 2026    |        | [Link](https://luma.com/blitz-ams-aug-2026)        |
-| GIRLS WHO AI X BUILDHER LABS PRESENT: BEAUTY DECODED // ALL FEMALE HACKATHON       | London, UK             | 29 Aug 2026    |        | [Link](https://luma.com/sklovsnj)                  |
-| The Running Hackathon                                                              | London, UK             | 29 Aug 2026    |        | [Link](https://luma.com/tag-wx1t)                  |
+| Hackathon Name                                                                     | Location               | Date             | Topics | URL                                                |
+| ---------------------------------------------------------------------------------- | ---------------------- | ---------------- | ------ | -------------------------------------------------- |
+| Stockholm Longevity × AI Hackathon                                                 | Stockholm, Sweden      | 11 Sept-13, 2026 |        | [Link](https://luma.com/5b82vwsa)                  |
+| The Future of Finance Hackathon                                                    | London, UK             | 11 Sept 2026     |        | [Link](https://luma.com/8rcrfsii)                  |
+| From Spreadsheet Chaos to One Source of Truth: AI Hackathon for VCSE & SME Leaders | Birmingham, UK         | 9 Sept 2026      |        | [Link](https://luma.com/softr-zs3l)                |
+| nao hackathon & breakfast Paris #4                                                 | Paris, France          | 9 Sept 2026      |        | [Link](https://luma.com/40d6o99n)                  |
+| Hardware hackathon, build the agent control deck!                                  | Budapest, Hungary      | 9 Sept 2026      |        | [Link](https://luma.com/buneo4d8)                  |
+| Lovable & Drivhuset Impact Buildathon                                              | Stockholm, Sweden      | 8 Sept 2026      |        | [Link](https://luma.com/18586nut)                  |
+| Unimicro Hackathon                                                                 | Bergen, Norway         | 7 Sept 2026      |        | [Link](https://luma.com/hn9t4bpv)                  |
+| Rebuild Private Markets: The Ylookup x Encode AI Hackathon                         | London, UK             | 5 Sept-6, 2026   |        | [Link](https://luma.com/encode-7hd7)               |
+| Al Game Console Hackathon: Build a Handheld AI Game Console in 12 hours!           | København, Denmark     | 5 Sept 2026      |        | [Link](https://luma.com/afn-lyc1)                  |
+| Common S3nse - Conference & Hackathon                                              | Amsterdam, Netherlands | 4 Sept-5, 2026   |        | [Link](https://luma.com/commons3nse)               |
+| S4S Intro to Hackathon                                                             | Lausanne, Switzerland  | 3 Sept 2026      |        | [Link](https://luma.com/d05y723t)                  |
+| AI Builders Program - Apply to Join - The AI Vision Challenge                      | London, UK             | 3 Sept 2026      |        | [Link](https://luma.com/904em2y3)                  |
+| GEO Hackathon Köln ft. octonomy, OpenAI, blinq, snipKI, scaile & duwerk            | Köln, Germany          | 3 Sept 2026      |        | [Link](https://luma.com/o5z2o50w)                  |
+| Fuckup Nights London #10: Hackathon                                                | London, UK             | 2 Sept 2026      |        | [Link](https://luma.com/u9mewkje)                  |
+| Hardware Hack Day                                                                  | London, UK             | 30 Aug 2026      |        | [Link](https://luma.com/granola-hardware-hack-day) |
+| Hackathon - Translating AI Safety (Content x Comms)                                | London, UK             | 30 Aug 2026      |        | [Link](https://luma.com/b4myja5u)                  |
+| Cantor8 London Hackathon                                                           | London, UK             | 29 Aug 2026      |        | [Link](https://luma.com/sjkped24)                  |
+| House London #1 - Data Hackathon                                                   | London, UK             | 29 Aug 2026      |        | [Link](https://luma.com/ufmgc59d)                  |
+| SSES Hackathon Ice Cream Break                                                     | Stockholm, Sweden      | 29 Aug 2026      |        | [Link](https://luma.com/lrjxuw3y)                  |
+| Monad Blitz Amsterdam Hackathon                                                    | Amsterdam, Netherlands | 29 Aug 2026      |        | [Link](https://luma.com/blitz-ams-aug-2026)        |
 
 <!-- PAST_TABLE_END -->
 
