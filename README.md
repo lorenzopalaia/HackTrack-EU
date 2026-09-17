@@ -16,18 +16,15 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 16 September 2026 at 20:51_
+_Last updated: 17 September 2026 at 13:59_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                                            | Location          | Date             | Topics | URL                                          |
-| --------------------------------------------------------- | ----------------- | ---------------- | ------ | -------------------------------------------- |
-| Technical Bootcamp - road to Solana Hackathon             | Berlin, Germany   | 17 Sept-18, 2026 |        | [Link](https://luma.com/techBootcamp)        |
-| Find your cofounder - Solana Hackathon kickoff mixer      | Berlin, Germany   | 17 Sept 2026     |        | [Link](https://luma.com/cofoundermixer)      |
-| Innovate for Humanity: Hackathon - Pitch, Vote & Mingle   | Stockholm, Sweden | 17 Sept 2026     |        | [Link](https://luma.com/frtip6sb)            |
-| Team1 Hackathon at Blockchain Beach 2026                  | Pescara, Italy    | 19 Sept 2026     |        | [Link](https://luma.com/gjed1p0n)            |
-| Solana Hack Day Munich: Road to TUM Blockchain Conference | München, Germany  | 24 Sept 2026     |        | [Link](https://luma.com/Solanahackdaymunich) |
-| Encode London Hackathon and Conference                    | London, UK        | 23 Oct-25, 2026  |        | [Link](https://lu.ma/encode-london-2026)     |
+| Hackathon Name                                            | Location         | Date            | Topics | URL                                          |
+| --------------------------------------------------------- | ---------------- | --------------- | ------ | -------------------------------------------- |
+| Team1 Hackathon at Blockchain Beach 2026                  | Pescara, Italy   | 19 Sept 2026    |        | [Link](https://luma.com/gjed1p0n)            |
+| Solana Hack Day Munich: Road to TUM Blockchain Conference | München, Germany | 24 Sept 2026    |        | [Link](https://luma.com/Solanahackdaymunich) |
+| Encode London Hackathon and Conference                    | London, UK       | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026)     |
 
 <!-- UPCOMING_TABLE_END -->
 
@@ -39,6 +36,10 @@ _Showing last 20 events_
 
 | Hackathon Name                                                                           | Location                           | Date             | Topics | URL                                                      |
 | ---------------------------------------------------------------------------------------- | ---------------------------------- | ---------------- | ------ | -------------------------------------------------------- |
+| Innovate for Humanity: Hackathon - Pitch, Vote & Mingle                                  | Stockholm, Sweden                  | 17 Sept 2026     |        | [Link](https://luma.com/frtip6sb)                        |
+| Find your cofounder - Solana Hackathon kickoff mixer                                     | Berlin, Germany                    | 17 Sept 2026     |        | [Link](https://luma.com/cofoundermixer)                  |
+| Cursor Hackathon Berlin @taxfix                                                          | Berlin, Germany                    | 17 Sept 2026     |        | [Link](https://luma.com/1lg1a8v3)                        |
+| Technical Bootcamp - road to Solana Hackathon                                            | Berlin, Germany                    | 17 Sept-18, 2026 |        | [Link](https://luma.com/techBootcamp)                    |
 | Zero to Hero: From Idea to Hackathon // Bratislava                                       | Bratislava, Slovakia               | 16 Sept 2026     |        | [Link](https://luma.com/vc7a2eld)                        |
 | 🔫 Agents in Action Prague #5: New Season Kickoff & Hackathon Reveal                     | Hlavní Město Praha, Czech Republic | 16 Sept 2026     |        | [Link](https://luma.com/agents007-meetup05)              |
 | Bir Hackathon Nasıl Kazanılır? Blockchain 101 ve Ürün Geliştirme                         | Sarıyer, Turkey                    | 16 Sept 2026     |        | [Link](https://luma.com/blockchain101-istanbul-sep-2026) |
@@ -55,10 +56,6 @@ _Showing last 20 events_
 | XRPL Lending Protocol Hackathon                                                          | Nanterre, France                   | 12 Sept-13, 2026 |        | [Link](https://luma.com/t4ttb973)                        |
 | WORLDS - LONDON Hackathon                                                                | London, UK                         | 12 Sept 2026     |        | [Link](https://luma.com/rsbvv2nk)                        |
 | Grok Bot Serbia Hackathon                                                                | Beograd, Serbia                    | 12 Sept 2026     |        | [Link](https://luma.com/ghvnbjlx)                        |
-| AI Healthcare Hackathon with Anima x OpenAI                                              | London, UK                         | 12 Sept 2026     |        | [Link](https://luma.com/animaxopenai)                    |
-| AI Hackathon - START Stuttgart                                                           | Ludwigsburg, Germany               | 12 Sept 2026     |        | [Link](https://luma.com/ncmuch92)                        |
-| AI.WOMEN Hackathon                                                                       | Hamburg, Germany                   | 12 Sept-13, 2026 |        | [Link](https://luma.com/zh2gkqd0)                        |
-| The Future of Finance Hackathon                                                          | London, UK                         | 11 Sept 2026     |        | [Link](https://luma.com/8rcrfsii)                        |
 
 <!-- PAST_TABLE_END -->
 
