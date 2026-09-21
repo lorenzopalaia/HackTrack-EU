@@ -16,20 +16,17 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 18 September 2026 at 17:46_
+_Last updated: 21 September 2026 at 15:47_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                                            | Location                    | Date            | Topics | URL                                            |
-| --------------------------------------------------------- | --------------------------- | --------------- | ------ | ---------------------------------------------- |
-| Devin Hackathon Budapest - Cognition.ai                   | Budapest, Hungary           | 19 Sept 2026    |        | [Link](https://luma.com/4015b3gu)              |
-| Customer Onboarding Hackathon                             | London, UK                  | 19 Sept 2026    |        | [Link](https://luma.com/vpjma1oe)              |
-| Team1 Hackathon at Blockchain Beach 2026                  | Pescara, Italy              | 19 Sept 2026    |        | [Link](https://luma.com/gjed1p0n)              |
-| KIDU × FAFGA - KI-Buildathon                              | Innsbruck, Austria          | 20 Sept 2026    |        | [Link](https://luma.com/kaa54saj)              |
-| Zero to Hero: From Idea to Hackathon // Plzen             | Plzeň-město, Czech Republic | 23 Sept 2026    |        | [Link](https://luma.com/haf96f0v)              |
-| Solana Hack Day Munich: Road to TUM Blockchain Conference | München, Germany            | 24 Sept 2026    |        | [Link](https://luma.com/Solanahackdaymunich)   |
-| Monad Blitz Berlin Hackathon                              | Berlin, Germany             | 26 Sept 2026    |        | [Link](https://luma.com/blitz-berlin-sep-2026) |
-| Encode London Hackathon and Conference                    | London, UK                  | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026)       |
+| Hackathon Name                                                             | Location                    | Date            | Topics | URL                                            |
+| -------------------------------------------------------------------------- | --------------------------- | --------------- | ------ | ---------------------------------------------- |
+| Zero to Hero: From Idea to Hackathon // Plzen                              | Plzeň-město, Czech Republic | 23 Sept 2026    |        | [Link](https://luma.com/haf96f0v)              |
+| Solana Hack Day Munich: Road to TUM Blockchain Conference                  | München, Germany            | 24 Sept 2026    |        | [Link](https://luma.com/Solanahackdaymunich)   |
+| BUILD IRL Vol. 1: Solana Hackathon with Superteam IE × Claude Builder Club | Dublin 1, Ireland           | 26 Sept 2026    |        | [Link](https://luma.com/superteam-60dw)        |
+| Monad Blitz Berlin Hackathon                                               | Berlin, Germany             | 26 Sept 2026    |        | [Link](https://luma.com/blitz-berlin-sep-2026) |
+| Encode London Hackathon and Conference                                     | London, UK                  | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026)       |
 
 <!-- UPCOMING_TABLE_END -->
 
@@ -41,26 +38,26 @@ _Showing last 20 events_
 
 | Hackathon Name                                                                           | Location                           | Date             | Topics | URL                                                      |
 | ---------------------------------------------------------------------------------------- | ---------------------------------- | ---------------- | ------ | -------------------------------------------------------- |
-| AaltoAI Hackathon: Data Sovereignty & Responsible AI                                     | Espoo, Finland                     | 18 Sept-20, 2026 |        | [Link](https://luma.com/heyq2zch)                        |
-| Zaro's BizOps Hackathon @ AWS                                                            | London, UK                         | 18 Sept 2026     |        | [Link](https://luma.com/gehfjmwq)                        |
+| KIDU × FAFGA - KI-Buildathon                                                             | Innsbruck, Austria                 | 20 Sept 2026     |        | [Link](https://luma.com/kaa54saj)                        |
+| Devin Hackathon Budapest - Cognition.ai                                                  | Budapest, Hungary                  | 19 Sept 2026     |        | [Link](https://luma.com/4015b3gu)                        |
+| Team1 Hackathon at Blockchain Beach 2026                                                 | Pescara, Italy                     | 19 Sept 2026     |        | [Link](https://luma.com/gjed1p0n)                        |
+| Customer Onboarding Hackathon                                                            | London, UK                         | 19 Sept 2026     |        | [Link](https://luma.com/vpjma1oe)                        |
 | Lenzburg Hackathon @Finnova                                                              | Lenzburg, Switzerland              | 18 Sept 2026     |        | [Link](https://luma.com/hack-lenzburg-18Sep26)           |
+| Zaro's BizOps Hackathon @ AWS                                                            | London, UK                         | 18 Sept 2026     |        | [Link](https://luma.com/gehfjmwq)                        |
+| AaltoAI Hackathon: Data Sovereignty & Responsible AI                                     | Espoo, Finland                     | 18 Sept-20, 2026 |        | [Link](https://luma.com/heyq2zch)                        |
+| Technical Bootcamp - road to Solana Hackathon                                            | Berlin, Germany                    | 17 Sept-18, 2026 |        | [Link](https://luma.com/techBootcamp)                    |
 | Innovate for Humanity: Hackathon - Pitch, Vote & Mingle                                  | Stockholm, Sweden                  | 17 Sept 2026     |        | [Link](https://luma.com/frtip6sb)                        |
 | Find your cofounder - Solana Hackathon kickoff mixer                                     | Berlin, Germany                    | 17 Sept 2026     |        | [Link](https://luma.com/cofoundermixer)                  |
 | Cursor Hackathon Berlin @taxfix                                                          | Berlin, Germany                    | 17 Sept 2026     |        | [Link](https://luma.com/1lg1a8v3)                        |
-| Technical Bootcamp - road to Solana Hackathon                                            | Berlin, Germany                    | 17 Sept-18, 2026 |        | [Link](https://luma.com/techBootcamp)                    |
+| Public AI Hackathon                                                                      | Antwerpen, Belgium                 | 16 Sept 2026     |        | [Link](https://luma.com/ai388m8c)                        |
 | 🔫 Agents in Action Prague #5: New Season Kickoff & Hackathon Reveal                     | Hlavní Město Praha, Czech Republic | 16 Sept 2026     |        | [Link](https://luma.com/agents007-meetup05)              |
 | Collaborative Agent Hackathon                                                            | Berlin, Germany                    | 16 Sept 2026     |        | [Link](https://luma.com/98drmtu1)                        |
-| Public AI Hackathon                                                                      | Antwerpen, Belgium                 | 16 Sept 2026     |        | [Link](https://luma.com/ai388m8c)                        |
 | Zero to Hero: From Idea to Hackathon // Bratislava                                       | Bratislava, Slovakia               | 16 Sept 2026     |        | [Link](https://luma.com/vc7a2eld)                        |
 | Bir Hackathon Nasıl Kazanılır? Blockchain 101 ve Ürün Geliştirme                         | Sarıyer, Turkey                    | 16 Sept 2026     |        | [Link](https://luma.com/blockchain101-istanbul-sep-2026) |
 | HR AI Hackathon, presented by Luo                                                        | Helsinki, Finland                  | 16 Sept 2026     |        | [Link](https://luma.com/fxian6up)                        |
 | Mini GTM Hackathon                                                                       | Berlin, Germany                    | 15 Sept 2026     |        | [Link](https://luma.com/nt7ucwtl)                        |
 | Zero to Hero: From Idea to Hackathon // Brno                                             | Brno-město, Czech Republic         | 15 Sept 2026     |        | [Link](https://luma.com/sc7t7kg7)                        |
-| Light x Lovable x KPMG Finance Hackathon                                                 | Stockholm, Sweden                  | 14 Sept 2026     |        | [Link](https://luma.com/Sthlmfinhack)                    |
-| MCP, AI & Workflows: The Softr x Make Hackathon                                          | Berlin, Germany                    | 14 Sept 2026     |        | [Link](https://luma.com/softr-make-berlin-ai)            |
 | HPE & NVIDIA Agentic AI Hackathon for Enterprises @HPE Geneva Customer Innovation Center | Meyrin, Switzerland                | 14 Sept 2026     |        | [Link](https://luma.com/hack-geneva-14Sep26)             |
-| Community Tooling Hack Day #2                                                            | London, UK                         | 12 Sept 2026     |        | [Link](https://luma.com/qn9exp2n)                        |
-| Agents & Jazz Hackathon                                                                  | Stockholm, Sweden                  | 12 Sept 2026     |        | [Link](https://luma.com/uquy1psx)                        |
 
 <!-- PAST_TABLE_END -->
 
