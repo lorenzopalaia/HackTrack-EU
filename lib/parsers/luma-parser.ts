@@ -180,6 +180,14 @@ export class LumaParser extends BaseParser {
       /\bfireside\b/,
       /\bpanel\b/,
       /\bkeynote\b/,
+      /\bbootcamps?\b/,
+
+      // "Road to Hackathon" / preparation paths	
+      /\broad\s+to\b.*\bhackathons?\b/,
+      /\bpath\s+to\b.*\bhackathons?\b/,
+      /\bjourney\s+to\b.*\bhackathons?\b/,
+      /\bleading\s+up\s+to\b.*\bhackathons?\b/,
+      /\bgetting\s+ready\s+for\b.*\bhackathons?\b/,
 
       // Educational / preparation events
       /\bhow\s+to\s+win\s+(a|the)?\s*hackathons?\b/,
