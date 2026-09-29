@@ -16,17 +16,19 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 29 September 2026 at 19:21_
+_Last updated: 29 September 2026 at 22:16_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                                                | Location        | Date            | Topics | URL                                              |
-| ------------------------------------------------------------- | --------------- | --------------- | ------ | ------------------------------------------------ |
-| Claude x Softr: AI Build Day Hackathon                        | London, UK      | 30 Sept 2026    |        | [Link](https://luma.com/softr-build-day-london)  |
-| VIBER HACKATHON PREDICTION MARKETS                            | Astana          | 30 Sept 2026    |        | [Link](https://luma.com/xmkxg3ll)                |
-| Product Bootcamp - Road to Colosseum Hackathon                | Berlin, Germany | 1 Oct-2, 2026   |        | [Link](https://luma.com/productbootcamp)         |
-| Metropolis Hackathon Builder Day: London - $250,000 in prizes | London, UK      | 2 Oct 2026      |        | [Link](https://luma.com/metropolis-lon-oct-2026) |
-| Encode London Hackathon and Conference                        | London, UK      | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026)         |
+| Hackathon Name                                                | Location                           | Date            | Topics | URL                                              |
+| ------------------------------------------------------------- | ---------------------------------- | --------------- | ------ | ------------------------------------------------ |
+| Cursor Hackathon Prague: Forge the Stack                      | Hlavní Město Praha, Czech Republic | 30 Sept 2026    |        | [Link](https://luma.com/cursor-mljb)             |
+| Claude x Softr: AI Build Day Hackathon                        | London, UK                         | 30 Sept 2026    |        | [Link](https://luma.com/softr-build-day-london)  |
+| SCA Scratch Hackathon                                         | Birmingham, UK                     | 30 Sept 2026    |        | [Link](https://luma.com/u8iv79x2)                |
+| VIBER HACKATHON PREDICTION MARKETS                            | Astana                             | 30 Sept 2026    |        | [Link](https://luma.com/xmkxg3ll)                |
+| Product Bootcamp - Road to Colosseum Hackathon                | Berlin, Germany                    | 1 Oct-2, 2026   |        | [Link](https://luma.com/productbootcamp)         |
+| Metropolis Hackathon Builder Day: London - $250,000 in prizes | London, UK                         | 2 Oct 2026      |        | [Link](https://luma.com/metropolis-lon-oct-2026) |
+| Encode London Hackathon and Conference                        | London, UK                         | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026)         |
 
 <!-- UPCOMING_TABLE_END -->
 
@@ -43,21 +45,21 @@ _Showing last 20 events_
 | Uniplay Hackathon                                                          | Stockholm, Sweden      | 28 Sept 2026               |        | [Link](https://luma.com/fpa21ki2)                        |
 | YFN x EU Energy Hackathon                                                  | München, Germany       | 27 Sept 2026               |        | [Link](https://luma.com/75cqklfc)                        |
 | BUILD IRL Vol. 1: Solana Hackathon with Superteam IE × Claude Builder Club | Dublin 1, Ireland      | 26 Sept 2026               |        | [Link](https://luma.com/superteam-60dw)                  |
-| Grok Bot Commerce London Hackathon                                         | London, UK             | 26 Sept 2026               |        | [Link](https://luma.com/cursor-td9f)                     |
+| Monad Blitz Berlin Hackathon                                               | Berlin, Germany        | 26 Sept 2026               |        | [Link](https://luma.com/blitz-berlin-sep-2026)           |
+| House London #2 - Data Hackathon                                           | London, UK             | 26 Sept 2026               |        | [Link](https://luma.com/tsjh0lm9)                        |
+| LFG Manchester: Hackathon                                                  | Manchester, UK         | 26 Sept 2026               |        | [Link](https://luma.com/lfg-rim6)                        |
+| Build For Impact Hackathon: Build Mobile Apps for Good.                    | København, Denmark     | 26 Sept 2026               |        | [Link](https://luma.com/afn-6qyw)                        |
 | Lock in & Build Hackathon                                                  | Tallinn, Estonia       | 26 Sept-27, 2026           |        | [Link](https://luma.com/b3o95mtn)                        |
-| Prompt Marketing Hackathon                                                 | Espoo, Finland         | 26 Sept-27, 2026           |        | [Link](https://luma.com/aaltoes-ose3)                    |
 | Physical AI Hackathon                                                      | Stuttgart, Germany     | 26 Sept 2026               |        | [Link](https://luma.com/gw4tvnff)                        |
 | HACK_002: 24h AI Hackathon                                                 | Wien, Austria          | 26 Sept-27, 2026           |        | [Link](https://luma.com/1ka4b1nm)                        |
 | Replit Baku Hackathon #2                                                   | Bakı                   | 26 Sept 2026               |        | [Link](https://luma.com/swocqq5k)                        |
-| Build For Impact Hackathon: Build Mobile Apps for Good.                    | København, Denmark     | 26 Sept 2026               |        | [Link](https://luma.com/afn-6qyw)                        |
-| LFG Manchester: Hackathon                                                  | Manchester, UK         | 26 Sept 2026               |        | [Link](https://luma.com/lfg-rim6)                        |
-| House London #2 - Data Hackathon                                           | London, UK             | 26 Sept 2026               |        | [Link](https://luma.com/tsjh0lm9)                        |
-| Monad Blitz Berlin Hackathon                                               | Berlin, Germany        | 26 Sept 2026               |        | [Link](https://luma.com/blitz-berlin-sep-2026)           |
-| Grok Hackathon Padova                                                      | Padova, Italy          | 25 Sept 2026               |        | [Link](https://luma.com/cursor-v5ch)                     |
-| Main Jury and Award Ceremony at Zurich Hackathon                           | Zürich, Switzerland    | 25 Sept 2026               |        | [Link](https://luma.com/Award-Ceremony-25Sep26)          |
+| Prompt Marketing Hackathon                                                 | Espoo, Finland         | 26 Sept-27, 2026           |        | [Link](https://luma.com/aaltoes-ose3)                    |
+| Grok Bot Commerce London Hackathon                                         | London, UK             | 26 Sept 2026               |        | [Link](https://luma.com/cursor-td9f)                     |
 | Warsaw Model Trainers Hackathon                                            | Warszawa, Poland       | 25 Sept-27, 2026           |        | [Link](https://luma.com/Warsaw-Model-Trainers-hackathon) |
-| Solana Hack Day Munich: Road to TUM Blockchain Conference                  | München, Germany       | 24 Sept 2026               |        | [Link](https://luma.com/Solanahackdaymunich)             |
+| Main Jury and Award Ceremony at Zurich Hackathon                           | Zürich, Switzerland    | 25 Sept 2026               |        | [Link](https://luma.com/Award-Ceremony-25Sep26)          |
+| Grok Hackathon Padova                                                      | Padova, Italy          | 25 Sept 2026               |        | [Link](https://luma.com/cursor-v5ch)                     |
 | Zurich Hackathon                                                           | Zürich, Switzerland    | 24 Sept-25, 2026           |        | [Link](https://luma.com/hack-zurich-24Sep26)             |
+| Solana Hack Day Munich: Road to TUM Blockchain Conference                  | München, Germany       | 24 Sept 2026               |        | [Link](https://luma.com/Solanahackdaymunich)             |
 
 <!-- PAST_TABLE_END -->
 
