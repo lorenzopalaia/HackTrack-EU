@@ -16,17 +16,16 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 7 October 2026 at 22:46_
+_Last updated: 8 October 2026 at 20:03_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                                                  | Location                           | Date            | Topics | URL                                            |
-| --------------------------------------------------------------- | ---------------------------------- | --------------- | ------ | ---------------------------------------------- |
-| 🩸 From Dusk Till Dawn Hackathon #01 by Agents 0.0.7. Community | Hlavní Město Praha, Czech Republic | 8 Oct-9, 2026   |        | [Link](https://luma.com/agents007-hackathon01) |
-| Light x Lovable x Personio Finance Hackathon                    | München, Germany                   | 8 Oct 2026      |        | [Link](https://luma.com/59c00xuc)              |
-| The Hackathon                                                   | Ecublens, Switzerland              | 10 Oct-11, 2026 |        | [Link](https://luma.com/d5gqew38)              |
-| Solana Demo Day: Colosseum Hackathon                            | Amsterdam, Netherlands             | 14 Oct 2026     |        | [Link](https://luma.com/vwqedg55)              |
-| Encode London Hackathon and Conference                          | London, UK                         | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026)       |
+| Hackathon Name                         | Location               | Date            | Topics | URL                                      |
+| -------------------------------------- | ---------------------- | --------------- | ------ | ---------------------------------------- |
+| BUILD GLOBAL AI hackathon              | Osh                    | 9 Oct 2026      |        | [Link](https://luma.com/n5cj6vtn)        |
+| The Hackathon                          | Ecublens, Switzerland  | 10 Oct-11, 2026 |        | [Link](https://luma.com/d5gqew38)        |
+| Solana Demo Day: Colosseum Hackathon   | Amsterdam, Netherlands | 14 Oct 2026     |        | [Link](https://luma.com/vwqedg55)        |
+| Encode London Hackathon and Conference | London, UK             | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026) |
 
 <!-- UPCOMING_TABLE_END -->
 
@@ -36,28 +35,28 @@ _Showing last 20 events_
 
 <!-- PAST_TABLE_START -->
 
-| Hackathon Name                                                             | Location               | Date          | Topics | URL                                              |
-| -------------------------------------------------------------------------- | ---------------------- | ------------- | ------ | ------------------------------------------------ |
-| Light x Lovable x Everphone Finance Hackathon                              | Berlin, Germany        | 7 Oct 2026    |        | [Link](https://luma.com/uj396whd)                |
-| Agents Gone Rogue — AI Hackathon                                           | Amsterdam, Netherlands | 6 Oct 2026    |        | [Link](https://luma.com/tag-saaf)                |
-| Entrepreneurial Hackathon - 25m underground in an old nuclear reactor hall | Stockholm, Sweden      | 5 Oct 2026    |        | [Link](https://luma.com/yi1qeffe)                |
-| Future States: Hackathon at No 10                                          | London, UK             | 5 Oct-6, 2026 |        | [Link](https://luma.com/9vr0zktj)                |
-| LLM x Law Hackathon in Paris #2                                            | Paris, France          | 4 Oct 2026    |        | [Link](https://luma.com/zwtvzkvp)                |
-| Hacktoberfest Hack Day Berlin 2026                                         | Berlin, Germany        | 4 Oct 2026    |        | [Link](https://luma.com/kkhm09h1)                |
-| Hackathon - Build 4 CyberDeck                                              | Uppsala, Sweden        | 3 Oct 2026    |        | [Link](https://luma.com/6ylas0ll)                |
-| EAT_HACK - the world's first AI & eating hackathon                         | London, UK             | 3 Oct 2026    |        | [Link](https://luma.com/hdf7uc43)                |
-| Bradford Agentic AI Hackathon                                              | Bradford, UK           | 3 Oct 2026    |        | [Link](https://luma.com/d3jrbl89)                |
-| Dresden Hub - 7th Hack-Nation Global AI Hackathon                          | Dresden, Germany       | 3 Oct-4, 2026 |        | [Link](https://luma.com/zmvuwstm)                |
-| GTM Hackathon Berlin - powered by Apify and Bella&Bona                     | Berlin, Germany        | 3 Oct 2026    |        | [Link](https://luma.com/co-9b47)                 |
-| London Hub - 7th Hack-Nation Global AI Hackathon                           | London, UK             | 3 Oct-4, 2026 |        | [Link](https://luma.com/nln5g3e0)                |
-| Munich Hub - 7th Hack-Nation Global AI Hackathon                           | München, Germany       | 3 Oct-4, 2026 |        | [Link](https://luma.com/emilftsx)                |
-| Vienna Hub - 7th Hack-Nation Global AI Hackathon                           | Wien, Austria          | 3 Oct-4, 2026 |        | [Link](https://luma.com/37954ppi)                |
-| London AI x Science Hackathon                                              | London, UK             | 3 Oct-4, 2026 |        | [Link](https://luma.com/3iipivod)                |
-| Zurich Hub - 7th Hack-Nation Global AI Hackathon                           | Zürich, Switzerland    | 3 Oct-4, 2026 |        | [Link](https://luma.com/xi9z9ikg)                |
-| Stockholm Hub - 7th Hack-Nation Global AI Hackathon                        | Huddinge, Sweden       | 3 Oct-4, 2026 |        | [Link](https://luma.com/305qlysu)                |
-| Goatmire Hackathon                                                         | Varberg, Sweden        | 3 Oct 2026    |        | [Link](https://luma.com/qm8gs6j4)                |
-| La Machine: a robotics hackathon by Tech Makers                            | Amsterdam, Netherlands | 2 Oct-4, 2026 |        | [Link](https://luma.com/ni360mav)                |
-| Metropolis Hackathon Builder Day: London - $250,000 in prizes              | London, UK             | 2 Oct 2026    |        | [Link](https://luma.com/metropolis-lon-oct-2026) |
+| Hackathon Name                                                             | Location                           | Date          | Topics | URL                                            |
+| -------------------------------------------------------------------------- | ---------------------------------- | ------------- | ------ | ---------------------------------------------- |
+| Light x Lovable x Personio Finance Hackathon                               | München, Germany                   | 8 Oct 2026    |        | [Link](https://luma.com/59c00xuc)              |
+| 🩸 From Dusk Till Dawn Hackathon #01 by Agents 0.0.7. Community            | Hlavní Město Praha, Czech Republic | 8 Oct-9, 2026 |        | [Link](https://luma.com/agents007-hackathon01) |
+| Light x Lovable x Everphone Finance Hackathon                              | Berlin, Germany                    | 7 Oct 2026    |        | [Link](https://luma.com/uj396whd)              |
+| Agents Gone Rogue — AI Hackathon                                           | Amsterdam, Netherlands             | 6 Oct 2026    |        | [Link](https://luma.com/tag-saaf)              |
+| Entrepreneurial Hackathon - 25m underground in an old nuclear reactor hall | Stockholm, Sweden                  | 5 Oct 2026    |        | [Link](https://luma.com/yi1qeffe)              |
+| Future States: Hackathon at No 10                                          | London, UK                         | 5 Oct-6, 2026 |        | [Link](https://luma.com/9vr0zktj)              |
+| Hacktoberfest Hack Day Berlin 2026                                         | Berlin, Germany                    | 4 Oct 2026    |        | [Link](https://luma.com/kkhm09h1)              |
+| LLM x Law Hackathon in Paris #2                                            | Paris, France                      | 4 Oct 2026    |        | [Link](https://luma.com/zwtvzkvp)              |
+| Hackathon - Build 4 CyberDeck                                              | Uppsala, Sweden                    | 3 Oct 2026    |        | [Link](https://luma.com/6ylas0ll)              |
+| EAT_HACK - the world's first AI & eating hackathon                         | London, UK                         | 3 Oct 2026    |        | [Link](https://luma.com/hdf7uc43)              |
+| Dresden Hub - 7th Hack-Nation Global AI Hackathon                          | Dresden, Germany                   | 3 Oct-4, 2026 |        | [Link](https://luma.com/zmvuwstm)              |
+| GTM Hackathon Berlin - powered by Apify and Bella&Bona                     | Berlin, Germany                    | 3 Oct 2026    |        | [Link](https://luma.com/co-9b47)               |
+| London Hub - 7th Hack-Nation Global AI Hackathon                           | London, UK                         | 3 Oct-4, 2026 |        | [Link](https://luma.com/nln5g3e0)              |
+| Munich Hub - 7th Hack-Nation Global AI Hackathon                           | München, Germany                   | 3 Oct-4, 2026 |        | [Link](https://luma.com/emilftsx)              |
+| Vienna Hub - 7th Hack-Nation Global AI Hackathon                           | Wien, Austria                      | 3 Oct-4, 2026 |        | [Link](https://luma.com/37954ppi)              |
+| London AI x Science Hackathon                                              | London, UK                         | 3 Oct-4, 2026 |        | [Link](https://luma.com/3iipivod)              |
+| Zurich Hub - 7th Hack-Nation Global AI Hackathon                           | Zürich, Switzerland                | 3 Oct-4, 2026 |        | [Link](https://luma.com/xi9z9ikg)              |
+| Stockholm Hub - 7th Hack-Nation Global AI Hackathon                        | Huddinge, Sweden                   | 3 Oct-4, 2026 |        | [Link](https://luma.com/305qlysu)              |
+| Bradford Agentic AI Hackathon                                              | Bradford, UK                       | 3 Oct 2026    |        | [Link](https://luma.com/d3jrbl89)              |
+| Goatmire Hackathon                                                         | Varberg, Sweden                    | 3 Oct 2026    |        | [Link](https://luma.com/qm8gs6j4)              |
 
 <!-- PAST_TABLE_END -->
 
