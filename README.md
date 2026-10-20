@@ -16,16 +16,18 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 20 October 2026 at 18:36_
+_Last updated: 20 October 2026 at 21:17_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                                                   | Location        | Date            | Topics | URL                                                          |
-| ---------------------------------------------------------------- | --------------- | --------------- | ------ | ------------------------------------------------------------ |
-| Encode London Hackathon and Conference                           | London, UK      | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026)                     |
-| Bir Hackathon Nasıl Kazanılır? Blockchain 101 ve Ürün Geliştirme | Çankaya, Turkey | 23 Oct 2026     |        | [Link](https://luma.com/v82k3zd0)                            |
-| Encode London Hackathon                                          | London, UK      | 23 Oct-25, 2026 |        | [Link](https://luma.com/encode-london-2026)                  |
-| AI Fixathon: Vulnerability discovery agents                      | Porto, Portugal | 17 Nov-19, 2026 |        | [Link](https://fixathon.ai/editions/vulnerability-discovery) |
+| Hackathon Name                                                      | Location           | Date            | Topics | URL                                                          |
+| ------------------------------------------------------------------- | ------------------ | --------------- | ------ | ------------------------------------------------------------ |
+| OSI Hackathon – Berlin Site, co-organized by Dunia, FAIRmat and HZB | Berlin, Germany    | 21 Oct-22, 2026 |        | [Link](https://luma.com/1ykmpq40)                            |
+| Local Site CPH: Open Scientific Intelligence Hackathon              | København, Denmark | 21 Oct-22, 2026 |        | [Link](https://luma.com/sjh06ojt)                            |
+| Encode London Hackathon and Conference                              | London, UK         | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026)                     |
+| Bir Hackathon Nasıl Kazanılır? Blockchain 101 ve Ürün Geliştirme    | Çankaya, Turkey    | 23 Oct 2026     |        | [Link](https://luma.com/v82k3zd0)                            |
+| Encode London Hackathon                                             | London, UK         | 23 Oct-25, 2026 |        | [Link](https://luma.com/encode-london-2026)                  |
+| AI Fixathon: Vulnerability discovery agents                         | Porto, Portugal    | 17 Nov-19, 2026 |        | [Link](https://fixathon.ai/editions/vulnerability-discovery) |
 
 <!-- UPCOMING_TABLE_END -->
 
@@ -38,25 +40,25 @@ _Showing last 20 events_
 | Hackathon Name                                                | Location                           | Date            | Topics | URL                                           |
 | ------------------------------------------------------------- | ---------------------------------- | --------------- | ------ | --------------------------------------------- |
 | Helsingborg Tech Week: Hackathon                              | Helsingborg, Sweden                | 20 Oct 2026     |        | [Link](https://luma.com/moo22oia)             |
-| AI for Good Hackathon Norway 2026                             | Oslo, Norway                       | 19 Oct 2026     |        | [Link](https://luma.com/y9yfwgun)             |
-| SolanaCZE × The FinTechers Hackathon (Reg. via seperate link) | Hlavní Město Praha, Czech Republic | 19 Oct-20, 2026 |        | [Link](https://luma.com/d3u7lwsd)             |
 | Replit AI & Dev Hackathon Baku                                | Bakı                               | 19 Oct 2026     |        | [Link](https://luma.com/9f4x0je5)             |
+| SolanaCZE × The FinTechers Hackathon (Reg. via seperate link) | Hlavní Město Praha, Czech Republic | 19 Oct-20, 2026 |        | [Link](https://luma.com/d3u7lwsd)             |
+| AI for Good Hackathon Norway 2026                             | Oslo, Norway                       | 19 Oct 2026     |        | [Link](https://luma.com/y9yfwgun)             |
 | Nebius Build Week Hackathon in partnership with NVIDIA        | Berlin, Germany                    | 18 Oct 2026     |        | [Link](https://luma.com/big-gtc-hack)         |
-| IKU Womxn in STEM Hackathon                                   | London, UK                         | 17 Oct-18, 2026 |        | [Link](https://luma.com/zo6qsl13)             |
-| Chat Hackers - Hack Day                                       | London, UK                         | 17 Oct 2026     |        | [Link](https://luma.com/campaign-nz6y)        |
-| Cursor Hackathon Naryn                                        | Naryn                              | 17 Oct 2026     |        | [Link](https://luma.com/spacexai-nded)        |
 | AMD Developer Hackathon: ACT III — Imperia                    | Imperia, Italy                     | 17 Oct-18, 2026 |        | [Link](https://luma.com/AMDHackathon-Imperia) |
 | AMD Developer Hackathon: ACT III — Milan                      | Milano, Italy                      | 17 Oct-18, 2026 |        | [Link](https://luma.com/AMDHackathon-Milan)   |
+| Cursor Hackathon Naryn                                        | Naryn                              | 17 Oct 2026     |        | [Link](https://luma.com/spacexai-nded)        |
+| IKU Womxn in STEM Hackathon                                   | London, UK                         | 17 Oct-18, 2026 |        | [Link](https://luma.com/zo6qsl13)             |
+| Chat Hackers - Hack Day                                       | London, UK                         | 17 Oct 2026     |        | [Link](https://luma.com/campaign-nz6y)        |
+| Arctic Next -hackathon                                        | Joensuu, Finland                   | 16 Oct-18, 2026 |        | [Link](https://luma.com/i6tn6c0z)             |
+| Build Agents That Remember Hackathon @42Paris                 | Paris, France                      | 16 Oct-18, 2026 |        | [Link](https://luma.com/bnre6nou)             |
+| Bazel Hackathon                                               | Amsterdam, Netherlands             | 16 Oct 2026     |        | [Link](https://luma.com/9dm41b1h)             |
 | ERH Physical AI Hackathon                                     | Schlieren, Switzerland             | 16 Oct-18, 2026 |        | [Link](https://luma.com/psoyy4k5)             |
 | Claude Hackathon + Showcase - Better Student Life             | London, UK                         | 16 Oct 2026     |        | [Link](https://luma.com/61w6hlef)             |
-| Bazel Hackathon                                               | Amsterdam, Netherlands             | 16 Oct 2026     |        | [Link](https://luma.com/9dm41b1h)             |
-| Build Agents That Remember Hackathon @42Paris                 | Paris, France                      | 16 Oct-18, 2026 |        | [Link](https://luma.com/bnre6nou)             |
-| Arctic Next -hackathon                                        | Joensuu, Finland                   | 16 Oct-18, 2026 |        | [Link](https://luma.com/i6tn6c0z)             |
 | Chief of Staff AI Buildathon                                  | Berlin, Germany                    | 15 Oct 2026     |        | [Link](https://luma.com/chiefof-hzr6)         |
-| Buildathon w/ MongoDB & Vercel & Tavily                       | London, UK                         | 14 Oct 2026     |        | [Link](https://luma.com/buildathon001)        |
 | Solana Demo Day: Colosseum Hackathon                          | Amsterdam, Netherlands             | 14 Oct 2026     |        | [Link](https://luma.com/vwqedg55)             |
-| Light x Lovable x Grant Thornton Finance Hackathon            | Stockholm, Sweden                  | 13 Oct 2026     |        | [Link](https://luma.com/Angelfinhack)         |
+| Buildathon w/ MongoDB & Vercel & Tavily                       | London, UK                         | 14 Oct 2026     |        | [Link](https://luma.com/buildathon001)        |
 | Fintech Hackathon                                             | London, UK                         | 13 Oct 2026     |        | [Link](https://luma.com/ex76h9ua)             |
+| Light x Lovable x Grant Thornton Finance Hackathon            | Stockholm, Sweden                  | 13 Oct 2026     |        | [Link](https://luma.com/Angelfinhack)         |
 
 <!-- PAST_TABLE_END -->
 
