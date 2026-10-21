@@ -16,15 +16,17 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 21 October 2026 at 18:44_
+_Last updated: 21 October 2026 at 21:26_
 
 <!-- UPCOMING_TABLE_START -->
 
 | Hackathon Name                                                   | Location         | Date            | Topics | URL                                                          |
 | ---------------------------------------------------------------- | ---------------- | --------------- | ------ | ------------------------------------------------------------ |
-| Encode London Hackathon and Conference                           | London, UK       | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026)                     |
+| Peekthrough October Hackathon with ElevenLabs                    | Dublin, Ireland  | 22 Oct 2026     |        | [Link](https://luma.com/2c8cnm8f)                            |
+| Paris Accel’s AI Innovate Series Hackathon                       | Paris, France    | 22 Oct 2026     |        | [Link](https://luma.com/0v3c010v)                            |
 | Bir Hackathon Nasıl Kazanılır? Blockchain 101 ve Ürün Geliştirme | Çankaya, Turkey  | 23 Oct 2026     |        | [Link](https://luma.com/v82k3zd0)                            |
 | Encode London Hackathon                                          | London, UK       | 23 Oct-25, 2026 |        | [Link](https://luma.com/encode-london-2026)                  |
+| Encode London Hackathon and Conference                           | London, UK       | 23 Oct-25, 2026 |        | [Link](https://lu.ma/encode-london-2026)                     |
 | TUM Blockchain Conference 26 / Digital Assets Day + Hackathon    | München, Germany | 28 Oct-31, 2026 |        | [Link](https://luma.com/tbc26)                               |
 | AI Fixathon: Vulnerability discovery agents                      | Porto, Portugal  | 17 Nov-19, 2026 |        | [Link](https://fixathon.ai/editions/vulnerability-discovery) |
 
@@ -51,10 +53,10 @@ _Showing last 20 events_
 | AMD Developer Hackathon: ACT III — Imperia                          | Imperia, Italy                     | 17 Oct-18, 2026 |        | [Link](https://luma.com/AMDHackathon-Imperia) |
 | Cursor Hackathon Naryn                                              | Naryn                              | 17 Oct 2026     |        | [Link](https://luma.com/spacexai-nded)        |
 | Arctic Next -hackathon                                              | Joensuu, Finland                   | 16 Oct-18, 2026 |        | [Link](https://luma.com/i6tn6c0z)             |
-| ERH Physical AI Hackathon                                           | Schlieren, Switzerland             | 16 Oct-18, 2026 |        | [Link](https://luma.com/psoyy4k5)             |
-| Bazel Hackathon                                                     | Amsterdam, Netherlands             | 16 Oct 2026     |        | [Link](https://luma.com/9dm41b1h)             |
 | Claude Hackathon + Showcase - Better Student Life                   | London, UK                         | 16 Oct 2026     |        | [Link](https://luma.com/61w6hlef)             |
 | Build Agents That Remember Hackathon @42Paris                       | Paris, France                      | 16 Oct-18, 2026 |        | [Link](https://luma.com/bnre6nou)             |
+| Bazel Hackathon                                                     | Amsterdam, Netherlands             | 16 Oct 2026     |        | [Link](https://luma.com/9dm41b1h)             |
+| ERH Physical AI Hackathon                                           | Schlieren, Switzerland             | 16 Oct-18, 2026 |        | [Link](https://luma.com/psoyy4k5)             |
 | Chief of Staff AI Buildathon                                        | Berlin, Germany                    | 15 Oct 2026     |        | [Link](https://luma.com/chiefof-hzr6)         |
 | Buildathon w/ MongoDB & Vercel & Tavily                             | London, UK                         | 14 Oct 2026     |        | [Link](https://luma.com/buildathon001)        |
 | Solana Demo Day: Colosseum Hackathon                                | Amsterdam, Netherlands             | 14 Oct 2026     |        | [Link](https://luma.com/vwqedg55)             |
