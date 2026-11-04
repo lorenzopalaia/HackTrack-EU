@@ -16,15 +16,17 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 4 November 2026 at 15:55_
+_Last updated: 4 November 2026 at 20:07_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                                                      | Location        | Date            | Topics | URL                                                          |
-| ------------------------------------------------------------------- | --------------- | --------------- | ------ | ------------------------------------------------------------ |
-| SuperteamTR x Dev3pack: University Hackathon ⚡️ — Bursa Chapter     | Türkiye, Turkey | 7 Nov-28, 2026  |        | [Link](https://luma.com/4p7vm8o9)                            |
-| SuperteamTR x Dev3pack: University Hackathon ⚡️ — Online + Istanbul | Beyoğlu, Turkey | 7 Nov-28, 2026  |        | [Link](https://luma.com/uwr4zd04)                            |
-| AI Fixathon: Vulnerability discovery agents                         | Porto, Portugal | 17 Nov-19, 2026 |        | [Link](https://fixathon.ai/editions/vulnerability-discovery) |
+| Hackathon Name                                                      | Location        | Date                    | Topics | URL                                                          |
+| ------------------------------------------------------------------- | --------------- | ----------------------- | ------ | ------------------------------------------------------------ |
+| Earth Breathing - Hackathon                                         | Cergy, France   | 5 Nov 2026              |        | [Link](https://luma.com/scaco3z7)                            |
+| Energy Hackathon                                                    | Lahti, Finland  | 5 Nov 2026 - 7 Dec 2026 |        | [Link](https://luma.com/tv9m97dp)                            |
+| SuperteamTR x Dev3pack: University Hackathon ⚡️ — Online + Istanbul | Beyoğlu, Turkey | 7 Nov-28, 2026          |        | [Link](https://luma.com/uwr4zd04)                            |
+| SuperteamTR x Dev3pack: University Hackathon ⚡️ — Bursa Chapter     | Türkiye, Turkey | 7 Nov-28, 2026          |        | [Link](https://luma.com/4p7vm8o9)                            |
+| AI Fixathon: Vulnerability discovery agents                         | Porto, Portugal | 17 Nov-19, 2026         |        | [Link](https://fixathon.ai/editions/vulnerability-discovery) |
 
 <!-- UPCOMING_TABLE_END -->
 
@@ -40,10 +42,10 @@ _Showing last 20 events_
 | Macromedia X CODE Hackathon!                                                                   | Berlin, Germany     | 2 Nov-3, 2026            |        | [Link](https://luma.com/wkmpb5uw)      |
 | DevDay Community Hackathon: London                                                             | London, UK          | 1 Nov 2026               |        | [Link](https://luma.com/dde-ldn-hack)  |
 | Halloween Hackathon 🎃(supported by Lovable)                                                   | Berlin, Germany     | 31 Oct 2026              |        | [Link](https://luma.com/55d7qwvn)      |
+| GTM Hackathon Berlin                                                                           | Berlin, Germany     | 31 Oct 2026              |        | [Link](https://luma.com/hyk9bm6x)      |
 | Hackathon Store Lungegårdsvann                                                                 | Bergen, Norway      | 31 Oct 2026              |        | [Link](https://luma.com/q12vu217)      |
 | AIDevCamp 2026 Agentic Hackathon - GDG London                                                  | London, UK          | 31 Oct 2026              |        | [Link](https://luma.com/wz7509ty)      |
 | HackTheGap Hackathon by WINZ and the Analytics Club at ETH                                     | Zürich, Switzerland | 31 Oct 2026 - 1 Nov 2026 |        | [Link](https://luma.com/6xyy1mul)      |
-| GTM Hackathon Berlin                                                                           | Berlin, Germany     | 31 Oct 2026              |        | [Link](https://luma.com/hyk9bm6x)      |
 | START Warsaw x Poland Tech Week Hackathon                                                      | Warszawa, Poland    | 30 Oct-31, 2026          |        | [Link](https://luma.com/n3yb17kl)      |
 | Clinical AI Hackathon Vienna 2026 — Official Partner Event of the European AI Innovation Month | Wien, Austria       | 29 Oct-30, 2026          |        | [Link](https://luma.com/aim-hackathon) |
 | Lovable Buildathon with YFL & Imperial Entrepreneurs                                           | London, UK          | 28 Oct 2026              |        | [Link](https://luma.com/fncgfgwq)      |
@@ -52,10 +54,10 @@ _Showing last 20 events_
 | The Revenue Engine Hackathon: Paris Edition 🇫🇷                                                 | Paris, France       | 27 Oct 2026              |        | [Link](https://luma.com/cnhcdwc3)      |
 | LangChain x Data Reply Hackathon: Building with Agent Harnesses (Munich)                       | München, Germany    | 27 Oct 2026              |        | [Link](https://luma.com/g6kvvori)      |
 | Robomasters Hackathon                                                                          | London, UK          | 25 Oct 2026              |        | [Link](https://luma.com/1z6b96nw)      |
-| Noetic X Nebius One Day Hackathon                                                              | London, UK          | 24 Oct 2026              |        | [Link](https://luma.com/qa1ds94p)      |
 | Company Brain Buildathon                                                                       | London, UK          | 24 Oct 2026              |        | [Link](https://luma.com/a5yfh2ve)      |
 | WATT THE HACK : Energy & AI Hackathon                                                          | München, Germany    | 24 Oct 2026              |        | [Link](https://luma.com/mcw2026-foj2)  |
 | AI in Healthcare Hackathon / Leeds AI Society                                                  | Leeds, UK           | 24 Oct-25, 2026          |        | [Link](https://luma.com/qtlx2bly)      |
+| Prompt Operations Hackathon                                                                    | Espoo, Finland      | 24 Oct-25, 2026          |        | [Link](https://luma.com/aaltoes-gapx)  |
 
 <!-- PAST_TABLE_END -->
 
