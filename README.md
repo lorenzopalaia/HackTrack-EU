@@ -16,17 +16,20 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 4 November 2026 at 20:07_
+_Last updated: 4 November 2026 at 22:25_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                                                      | Location        | Date                    | Topics | URL                                                          |
-| ------------------------------------------------------------------- | --------------- | ----------------------- | ------ | ------------------------------------------------------------ |
-| Earth Breathing - Hackathon                                         | Cergy, France   | 5 Nov 2026              |        | [Link](https://luma.com/scaco3z7)                            |
-| Energy Hackathon                                                    | Lahti, Finland  | 5 Nov 2026 - 7 Dec 2026 |        | [Link](https://luma.com/tv9m97dp)                            |
-| SuperteamTR x Dev3pack: University Hackathon ⚡️ — Online + Istanbul | Beyoğlu, Turkey | 7 Nov-28, 2026          |        | [Link](https://luma.com/uwr4zd04)                            |
-| SuperteamTR x Dev3pack: University Hackathon ⚡️ — Bursa Chapter     | Türkiye, Turkey | 7 Nov-28, 2026          |        | [Link](https://luma.com/4p7vm8o9)                            |
-| AI Fixathon: Vulnerability discovery agents                         | Porto, Portugal | 17 Nov-19, 2026         |        | [Link](https://fixathon.ai/editions/vulnerability-discovery) |
+| Hackathon Name                                                      | Location          | Date                    | Topics | URL                                                          |
+| ------------------------------------------------------------------- | ----------------- | ----------------------- | ------ | ------------------------------------------------------------ |
+| Filmathon · AI filmes hackathon, mozipremierrel                     | Budapest, Hungary | 5 Nov-6, 2026           |        | [Link](https://luma.com/filmathon)                           |
+| Grok Bot Hackathon Wrocław                                          | Wrocław, Poland   | 5 Nov 2026              |        | [Link](https://luma.com/spacexai-gjig)                       |
+| Energy Hackathon                                                    | Lahti, Finland    | 5 Nov 2026 - 7 Dec 2026 |        | [Link](https://luma.com/tv9m97dp)                            |
+| Earth Breathing - Hackathon                                         | Cergy, France     | 5 Nov 2026              |        | [Link](https://luma.com/scaco3z7)                            |
+| Hackathon: Build night for HR people! (w/ The AI Collective)        | Malmö, Sweden     | 5 Nov 2026              |        | [Link](https://luma.com/aic-sw-11-5)                         |
+| SuperteamTR x Dev3pack: University Hackathon ⚡️ — Online + Istanbul | Beyoğlu, Turkey   | 7 Nov-28, 2026          |        | [Link](https://luma.com/uwr4zd04)                            |
+| SuperteamTR x Dev3pack: University Hackathon ⚡️ — Bursa Chapter     | Türkiye, Turkey   | 7 Nov-28, 2026          |        | [Link](https://luma.com/4p7vm8o9)                            |
+| AI Fixathon: Vulnerability discovery agents                         | Porto, Portugal   | 17 Nov-19, 2026         |        | [Link](https://fixathon.ai/editions/vulnerability-discovery) |
 
 <!-- UPCOMING_TABLE_END -->
 
