@@ -16,7 +16,7 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 6 November 2026 at 19:44_
+_Last updated: 6 November 2026 at 21:56_
 
 <!-- UPCOMING_TABLE_START -->
 
@@ -33,6 +33,7 @@ _Last updated: 6 November 2026 at 19:44_
 | AI Agents for Accessibility Hackathon                                                                           | London, UK         | 7 Nov 2026      |        | [Link](https://luma.com/lzacr9yq)                            |
 | H Company × 42AI - Computer Use Agents Hackathon                                                                | Paris, France      | 7 Nov-8, 2026   |        | [Link](https://luma.com/hz9db5u9)                            |
 | Cursor x Sandbox Hackathon - Stuttgart                                                                          | Stuttgart, Germany | 7 Nov 2026      |        | [Link](https://luma.com/spacexai-tueh)                       |
+| Energy Hackathon: The Final                                                                                     | Lahti, Finland     | 7 Nov 2026      |        | [Link](https://luma.com/9d81cued)                            |
 | Warwick Hub: Swarm Alignment Hackathon                                                                          | Coventry, UK       | 7 Nov-8, 2026   |        | [Link](https://luma.com/ldgv89hp)                            |
 | Oxford Applied AI Hackathon                                                                                     | Oxford, UK         | 7 Nov 2026      |        | [Link](https://luma.com/lpwg9cq4)                            |
 | Adapty Hackathon First Commit                                                                                   | Beograd, Serbia    | 7 Nov-8, 2026   |        | [Link](https://luma.com/6n5z66cr)                            |
@@ -50,13 +51,13 @@ _Showing last 20 events_
 
 | Hackathon Name                                                                                 | Location              | Date                     | Topics | URL                                    |
 | ---------------------------------------------------------------------------------------------- | --------------------- | ------------------------ | ------ | -------------------------------------- |
-| Bilt.me in Vilnius buildathon                                                                  | Vilnius, Lithuania    | 6 Nov 2026               |        | [Link](https://luma.com/natcc2jy)      |
 | AI x Finance Hackathon with Brevan Howard                                                      | Ecublens, Switzerland | 6 Nov 2026               |        | [Link](https://luma.com/jhbiush5)      |
-| Hackathon: Build night for HR people! (w/ The AI Collective)                                   | Malmö, Sweden         | 5 Nov 2026               |        | [Link](https://luma.com/aic-sw-11-5)   |
-| Grok Bot Hackathon Wrocław                                                                     | Wrocław, Poland       | 5 Nov 2026               |        | [Link](https://luma.com/spacexai-gjig) |
-| Filmathon · AI filmes hackathon, mozipremierrel                                                | Budapest, Hungary     | 5 Nov-6, 2026            |        | [Link](https://luma.com/filmathon)     |
-| Earth Breathing - Hackathon                                                                    | Cergy, France         | 5 Nov 2026               |        | [Link](https://luma.com/scaco3z7)      |
+| Bilt.me in Vilnius buildathon                                                                  | Vilnius, Lithuania    | 6 Nov 2026               |        | [Link](https://luma.com/natcc2jy)      |
 | Energy Hackathon                                                                               | Lahti, Finland        | 5 Nov 2026 - 7 Dec 2026  |        | [Link](https://luma.com/tv9m97dp)      |
+| Earth Breathing - Hackathon                                                                    | Cergy, France         | 5 Nov 2026               |        | [Link](https://luma.com/scaco3z7)      |
+| Filmathon · AI filmes hackathon, mozipremierrel                                                | Budapest, Hungary     | 5 Nov-6, 2026            |        | [Link](https://luma.com/filmathon)     |
+| Grok Bot Hackathon Wrocław                                                                     | Wrocław, Poland       | 5 Nov 2026               |        | [Link](https://luma.com/spacexai-gjig) |
+| Hackathon: Build night for HR people! (w/ The AI Collective)                                   | Malmö, Sweden         | 5 Nov 2026               |        | [Link](https://luma.com/aic-sw-11-5)   |
 | HACKATHON - Agent Eval Harness                                                                 | London, UK            | 4 Nov 2026               |        | [Link](https://luma.com/h8zer2ek)      |
 | Macromedia X CODE Hackathon!                                                                   | Berlin, Germany       | 2 Nov-3, 2026            |        | [Link](https://luma.com/wkmpb5uw)      |
 | DevDay Community Hackathon: London                                                             | London, UK            | 1 Nov 2026               |        | [Link](https://luma.com/dde-ldn-hack)  |
