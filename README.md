@@ -16,18 +16,14 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 14 November 2026 at 20:26_
+_Last updated: 16 November 2026 at 17:49_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                              | Location          | Date            | Topics | URL                                                          |
-| ------------------------------------------- | ----------------- | --------------- | ------ | ------------------------------------------------------------ |
-| Rocket Design Hackathon                     | Espoo, Finland    | 15 Nov 2026     |        | [Link](https://luma.com/cp8tqetx)                            |
-| The St Andrews Hackathon                    | St Andrews, UK    | 15 Nov 2026     |        | [Link](https://luma.com/otyzrh3h)                            |
-| Leyr x Lovable Buildathon: Build Your EHR   | Stockholm, Sweden | 15 Nov 2026     |        | [Link](https://luma.com/dm1pljah)                            |
-| Social GTM Agents Hackathon with Zernio     | Paris, France     | 15 Nov 2026     |        | [Link](https://luma.com/wrgyhbwf)                            |
-| QRT x CompSoc C3 Coding Hackathon           | Edinburgh, UK     | 16 Nov 2026     |        | [Link](https://luma.com/m38is3bl)                            |
-| AI Fixathon: Vulnerability discovery agents | Porto, Portugal   | 17 Nov-19, 2026 |        | [Link](https://fixathon.ai/editions/vulnerability-discovery) |
+| Hackathon Name                                 | Location        | Date            | Topics | URL                                                          |
+| ---------------------------------------------- | --------------- | --------------- | ------ | ------------------------------------------------------------ |
+| BERLIN - Entrepreneurship Festival - Hackathon | Berlin, Germany | 17 Nov 2026     |        | [Link](https://luma.com/gqhcqzo8)                            |
+| AI Fixathon: Vulnerability discovery agents    | Porto, Portugal | 17 Nov-19, 2026 |        | [Link](https://fixathon.ai/editions/vulnerability-discovery) |
 
 <!-- UPCOMING_TABLE_END -->
 
@@ -37,28 +33,28 @@ _Showing last 20 events_
 
 <!-- PAST_TABLE_START -->
 
-| Hackathon Name                                                                       | Location                           | Date            | Topics | URL                                    |
-| ------------------------------------------------------------------------------------ | ---------------------------------- | --------------- | ------ | -------------------------------------- |
-| Imperial AI Hackathon                                                                | London, UK                         | 14 Nov-15, 2026 |        | [Link](https://luma.com/c6zebxau)      |
-| VIBENIGHT #2 : Hackathon AI Safety (FINAL)                                           | Paris, France                      | 14 Nov 2026     |        | [Link](https://luma.com/gkqbmy2j)      |
-| AI × Antibodies Hackathon Oslo                                                       | Oslo, Norway                       | 14 Nov 2026     |        | [Link](https://luma.com/16qoctcz)      |
-| Leukerbad Hackathon 2026 (Robotics, XR, and AI)                                      | Leukerbad, Switzerland             | 14 Nov-16, 2026 |        | [Link](https://luma.com/vj13ns00)      |
-| Hackathon Open Data 🏛️                                                               | Paris, France                      | 14 Nov 2026     |        | [Link](https://luma.com/ardao19g)      |
-| Entropy Alignment Security Hackathon                                                 | Berlin, Germany                    | 14 Nov 2026     |        | [Link](https://luma.com/or3d9qtg)      |
-| LegalTech in Leeds Hackathon 2026                                                    | Leeds, UK                          | 13 Nov 2026     |        | [Link](https://luma.com/7lye9apb)      |
-| Making Sense - OxAI Hackathon                                                        | Oxford, UK                         | 13 Nov-20, 2026 |        | [Link](https://luma.com/e4wrrck2)      |
-| Cambridge EduX Hackathon 2026                                                        | Cambridge, UK                      | 13 Nov 2026     |        | [Link](https://luma.com/6sv64tnt)      |
-| Hackathon Eve: How We Build with Agents                                              | London, UK                         | 13 Nov 2026     |        | [Link](https://luma.com/xx7msf8o)      |
-| Coffee & Build - Mobile App Hackathon                                                | London, UK                         | 13 Nov 2026     |        | [Link](https://luma.com/aiafter5-vp68) |
-| Building Better Worlds Hackathon                                                     | Wien, Austria                      | 13 Nov-14, 2026 |        | [Link](https://luma.com/rrnm4pul)      |
-| AI Agents for the Rest of Us: an interdisciplinary hackathon by AI Tinkerers Prague  | Hlavní Město Praha, Czech Republic | 13 Nov 2026     |        | [Link](https://luma.com/6rgvg844)      |
-| Shiftic AI Change Hackathon - Measure impact of Change                               | Stockholm, Sweden                  | 12 Nov 2026     |        | [Link](https://luma.com/shiftic-6lym)  |
-| Sports Analytics Hackathon                                                           | Ilidža, Bosnia and Herzegovina     | 11 Nov-13, 2026 |        | [Link](https://luma.com/loqu0r8z)      |
-| Build your content-led GTM motion: Hackathon                                         | London, UK                         | 10 Nov 2026     |        | [Link](https://luma.com/y3vajpmz)      |
-| Make It Make Sense – Vibe Coding Mini-Hackathon                                      | Helsinki, Finland                  | 9 Nov 2026      |        | [Link](https://luma.com/v7xg2mfm)      |
-| Baltic Sea Security Hackathon - Demos & Pitches                                      | Tallinn, Estonia                   | 8 Nov 2026      |        | [Link](https://luma.com/fis2dao1)      |
-| Hack the Feed: AI Video Hackathon with Oriane, Lovable & Brut at Albert School Paris | Paris, France                      | 7 Nov 2026      |        | [Link](https://luma.com/h7aqkkw4)      |
-| Oxford Neurotech Hackathon 2026                                                      | Oxford, UK                         | 7 Nov-8, 2026   |        | [Link](https://luma.com/ceww7ooe)      |
+| Hackathon Name                                                                      | Location                           | Date            | Topics | URL                                    |
+| ----------------------------------------------------------------------------------- | ---------------------------------- | --------------- | ------ | -------------------------------------- |
+| QRT x CompSoc C3 Coding Hackathon                                                   | Edinburgh, UK                      | 16 Nov 2026     |        | [Link](https://luma.com/m38is3bl)      |
+| The St Andrews Hackathon                                                            | St Andrews, UK                     | 15 Nov 2026     |        | [Link](https://luma.com/otyzrh3h)      |
+| Leyr x Lovable Buildathon: Build Your EHR                                           | Stockholm, Sweden                  | 15 Nov 2026     |        | [Link](https://luma.com/dm1pljah)      |
+| Social GTM Agents Hackathon with Zernio                                             | Paris, France                      | 15 Nov 2026     |        | [Link](https://luma.com/wrgyhbwf)      |
+| Rocket Design Hackathon                                                             | Espoo, Finland                     | 15 Nov 2026     |        | [Link](https://luma.com/cp8tqetx)      |
+| Imperial AI Hackathon                                                               | London, UK                         | 14 Nov-15, 2026 |        | [Link](https://luma.com/c6zebxau)      |
+| VIBENIGHT #2 : Hackathon AI Safety (FINAL)                                          | Paris, France                      | 14 Nov 2026     |        | [Link](https://luma.com/gkqbmy2j)      |
+| AI × Antibodies Hackathon Oslo                                                      | Oslo, Norway                       | 14 Nov 2026     |        | [Link](https://luma.com/16qoctcz)      |
+| Leukerbad Hackathon 2026 (Robotics, XR, and AI)                                     | Leukerbad, Switzerland             | 14 Nov-16, 2026 |        | [Link](https://luma.com/vj13ns00)      |
+| Hackathon Open Data 🏛️                                                              | Paris, France                      | 14 Nov 2026     |        | [Link](https://luma.com/ardao19g)      |
+| Entropy Alignment Security Hackathon                                                | Berlin, Germany                    | 14 Nov 2026     |        | [Link](https://luma.com/or3d9qtg)      |
+| LegalTech in Leeds Hackathon 2026                                                   | Leeds, UK                          | 13 Nov 2026     |        | [Link](https://luma.com/7lye9apb)      |
+| Coffee & Build - Mobile App Hackathon                                               | London, UK                         | 13 Nov 2026     |        | [Link](https://luma.com/aiafter5-vp68) |
+| Hackathon Eve: How We Build with Agents                                             | London, UK                         | 13 Nov 2026     |        | [Link](https://luma.com/xx7msf8o)      |
+| Making Sense - OxAI Hackathon                                                       | Oxford, UK                         | 13 Nov-20, 2026 |        | [Link](https://luma.com/e4wrrck2)      |
+| Cambridge EduX Hackathon 2026                                                       | Cambridge, UK                      | 13 Nov 2026     |        | [Link](https://luma.com/6sv64tnt)      |
+| Building Better Worlds Hackathon                                                    | Wien, Austria                      | 13 Nov-14, 2026 |        | [Link](https://luma.com/rrnm4pul)      |
+| AI Agents for the Rest of Us: an interdisciplinary hackathon by AI Tinkerers Prague | Hlavní Město Praha, Czech Republic | 13 Nov 2026     |        | [Link](https://luma.com/6rgvg844)      |
+| Shiftic AI Change Hackathon - Measure impact of Change                              | Stockholm, Sweden                  | 12 Nov 2026     |        | [Link](https://luma.com/shiftic-6lym)  |
+| Sports Analytics Hackathon                                                          | Ilidža, Bosnia and Herzegovina     | 11 Nov-13, 2026 |        | [Link](https://luma.com/loqu0r8z)      |
 
 <!-- PAST_TABLE_END -->
 
