@@ -16,16 +16,19 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 19 November 2026 at 21:03_
+_Last updated: 19 November 2026 at 23:23_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name                              | Location                   | Date        | Topics | URL                                     |
-| ------------------------------------------- | -------------------------- | ----------- | ------ | --------------------------------------- |
-| AI Builders × commIT - Hack Day Berlin 2026 | Berlin, Germany            | 20 Nov 2026 |        | [Link](https://luma.com/ber-nov20-hday) |
-| Personal Agent Hackathon: Pippa Labs        | London, UK                 | 20 Nov 2026 |        | [Link](https://luma.com/may4mbwf)       |
-| Life Science Hack Day in Timișoara          | Timișoara, Romania         | 21 Nov 2026 |        | [Link](https://luma.com/fawf2apy)       |
-| HACKATHON: Build AI on KASPA                | Le Kremlin-bicêtre, France | 28 Nov 2026 |        | [Link](https://luma.com/8dl5fglx)       |
+| Hackathon Name                                   | Location                   | Date            | Topics | URL                                     |
+| ------------------------------------------------ | -------------------------- | --------------- | ------ | --------------------------------------- |
+| Personal Agent Hackathon: Pippa Labs             | London, UK                 | 20 Nov 2026     |        | [Link](https://luma.com/may4mbwf)       |
+| AI Builders × commIT - Hack Day Berlin 2026      | Berlin, Germany            | 20 Nov 2026     |        | [Link](https://luma.com/ber-nov20-hday) |
+| Lovable Hackathon                                | Dresden, Germany           | 21 Nov 2026     |        | [Link](https://luma.com/nhsr23nw)       |
+| Lund AI Society x Everi Labs x node.vc Hackathon | Lund, Sweden               | 21 Nov 2026     |        | [Link](https://luma.com/3hxwl49j)       |
+| Life Science Hack Day in Timișoara               | Timișoara, Romania         | 21 Nov 2026     |        | [Link](https://luma.com/fawf2apy)       |
+| WEB 3 Hackathon & Ideathon                       | Split, Croatia             | 28 Nov-29, 2026 |        | [Link](https://luma.com/4tx1zlo8)       |
+| HACKATHON: Build AI on KASPA                     | Le Kremlin-bicêtre, France | 28 Nov 2026     |        | [Link](https://luma.com/8dl5fglx)       |
 
 <!-- UPCOMING_TABLE_END -->
 
@@ -43,20 +46,20 @@ _Showing last 20 events_
 | BERLIN - Entrepreneurship Festival - Hackathon                                      | Berlin, Germany                    | 17 Nov 2026     |        | [Link](https://luma.com/gqhcqzo8)                            |
 | QRT x CompSoc C3 Coding Hackathon                                                   | Edinburgh, UK                      | 16 Nov 2026     |        | [Link](https://luma.com/m38is3bl)                            |
 | The St Andrews Hackathon                                                            | St Andrews, UK                     | 15 Nov 2026     |        | [Link](https://luma.com/otyzrh3h)                            |
-| Social GTM Agents Hackathon with Zernio                                             | Paris, France                      | 15 Nov 2026     |        | [Link](https://luma.com/wrgyhbwf)                            |
-| Leyr x Lovable Buildathon: Build Your EHR                                           | Stockholm, Sweden                  | 15 Nov 2026     |        | [Link](https://luma.com/dm1pljah)                            |
 | Rocket Design Hackathon                                                             | Espoo, Finland                     | 15 Nov 2026     |        | [Link](https://luma.com/cp8tqetx)                            |
+| Leyr x Lovable Buildathon: Build Your EHR                                           | Stockholm, Sweden                  | 15 Nov 2026     |        | [Link](https://luma.com/dm1pljah)                            |
+| Social GTM Agents Hackathon with Zernio                                             | Paris, France                      | 15 Nov 2026     |        | [Link](https://luma.com/wrgyhbwf)                            |
 | VIBENIGHT #2 : Hackathon AI Safety (FINAL)                                          | Paris, France                      | 14 Nov 2026     |        | [Link](https://luma.com/gkqbmy2j)                            |
 | Imperial AI Hackathon                                                               | London, UK                         | 14 Nov-15, 2026 |        | [Link](https://luma.com/c6zebxau)                            |
 | Entropy Alignment Security Hackathon                                                | Berlin, Germany                    | 14 Nov 2026     |        | [Link](https://luma.com/or3d9qtg)                            |
 | AI × Antibodies Hackathon Oslo                                                      | Oslo, Norway                       | 14 Nov 2026     |        | [Link](https://luma.com/16qoctcz)                            |
 | Leukerbad Hackathon 2026 (Robotics, XR, and AI)                                     | Leukerbad, Switzerland             | 14 Nov-16, 2026 |        | [Link](https://luma.com/vj13ns00)                            |
 | Hackathon Open Data 🏛️                                                              | Paris, France                      | 14 Nov 2026     |        | [Link](https://luma.com/ardao19g)                            |
-| Cambridge EduX Hackathon 2026                                                       | Cambridge, UK                      | 13 Nov 2026     |        | [Link](https://luma.com/6sv64tnt)                            |
-| Making Sense - OxAI Hackathon                                                       | Oxford, UK                         | 13 Nov-20, 2026 |        | [Link](https://luma.com/e4wrrck2)                            |
-| LegalTech in Leeds Hackathon 2026                                                   | Leeds, UK                          | 13 Nov 2026     |        | [Link](https://luma.com/7lye9apb)                            |
-| Coffee & Build - Mobile App Hackathon                                               | London, UK                         | 13 Nov 2026     |        | [Link](https://luma.com/aiafter5-vp68)                       |
+| Hackathon Eve: How We Build with Agents                                             | London, UK                         | 13 Nov 2026     |        | [Link](https://luma.com/xx7msf8o)                            |
 | AI Agents for the Rest of Us: an interdisciplinary hackathon by AI Tinkerers Prague | Hlavní Město Praha, Czech Republic | 13 Nov 2026     |        | [Link](https://luma.com/6rgvg844)                            |
+| Building Better Worlds Hackathon                                                    | Wien, Austria                      | 13 Nov-14, 2026 |        | [Link](https://luma.com/rrnm4pul)                            |
+| Coffee & Build - Mobile App Hackathon                                               | London, UK                         | 13 Nov 2026     |        | [Link](https://luma.com/aiafter5-vp68)                       |
+| LegalTech in Leeds Hackathon 2026                                                   | Leeds, UK                          | 13 Nov 2026     |        | [Link](https://luma.com/7lye9apb)                            |
 
 <!-- PAST_TABLE_END -->
 
