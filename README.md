@@ -16,18 +16,19 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 20 November 2026 at 16:37_
+_Last updated: 20 November 2026 at 20:50_
 
 <!-- UPCOMING_TABLE_START -->
 
 | Hackathon Name                                                                   | Location                   | Date            | Topics | URL                                             |
 | -------------------------------------------------------------------------------- | -------------------------- | --------------- | ------ | ----------------------------------------------- |
-| Build With Codex - Community Hackathon Heilbronn                                 | Heilbronn, Germany         | 21 Nov 2026     |        | [Link](https://luma.com/re0gtlv6)               |
 | SoTA Scientific Parallelism Hackathon - With Callosum, Inherent, ARIA + Fractile | London, UK                 | 21 Nov-22, 2026 |        | [Link](https://luma.com/scientific-parallelism) |
+| THE €5K BUILD & LAUNCH HACKATHON                                                 | Berlin, Germany            | 21 Nov-22, 2026 |        | [Link](https://luma.com/613ahsn2)               |
 | Lovable Hackathon                                                                | Dresden, Germany           | 21 Nov 2026     |        | [Link](https://luma.com/nhsr23nw)               |
 | Lund AI Society x Everi Labs x node.vc Hackathon                                 | Lund, Sweden               | 21 Nov 2026     |        | [Link](https://luma.com/3hxwl49j)               |
 | Life Science Hack Day in Timișoara                                               | Timișoara, Romania         | 21 Nov 2026     |        | [Link](https://luma.com/fawf2apy)               |
 | Le Chonk in London - Mistral Vibe Hackathon                                      | London, UK                 | 21 Nov 2026     |        | [Link](https://luma.com/le-chonk-in-london)     |
+| Build With Codex - Community Hackathon Heilbronn                                 | Heilbronn, Germany         | 21 Nov 2026     |        | [Link](https://luma.com/re0gtlv6)               |
 | WEB 3 Hackathon & Ideathon                                                       | Split, Croatia             | 28 Nov-29, 2026 |        | [Link](https://luma.com/4tx1zlo8)               |
 | HACKATHON: Build AI on KASPA                                                     | Le Kremlin-bicêtre, France | 28 Nov 2026     |        | [Link](https://luma.com/8dl5fglx)               |
 
