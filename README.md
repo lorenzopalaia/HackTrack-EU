@@ -16,13 +16,13 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 27 November 2026 at 17:47_
+_Last updated: 27 November 2026 at 21:43_
 
 <!-- UPCOMING_TABLE_START -->
 
 | Hackathon Name                                                     | Location                   | Date            | Topics | URL                                    |
 | ------------------------------------------------------------------ | -------------------------- | --------------- | ------ | -------------------------------------- |
-| WEB 3 Hackathon & Ideathon                                         | Split, Croatia             | 28 Nov-29, 2026 |        | [Link](https://luma.com/4tx1zlo8)      |
+| HACKATHON: Build AI on KASPA                                       | Le Kremlin-bicêtre, France | 28 Nov 2026     |        | [Link](https://luma.com/8dl5fglx)      |
 | Trinity Entrepreneurial Society's StartUp Weekend: Hackathon       | Dublin 8, Ireland          | 28 Nov-29, 2026 |        | [Link](https://luma.com/3hgofz45)      |
 | Rooftop Mobile App Hackathon                                       | London, UK                 | 28 Nov 2026     |        | [Link](https://luma.com/tjdf787t)      |
 | Prompt Startegy Hackathon                                          | Espoo, Finland             | 28 Nov-29, 2026 |        | [Link](https://luma.com/aaltoes-u79b)  |
@@ -36,7 +36,11 @@ _Last updated: 27 November 2026 at 17:47_
 | Launch Day Hackathon                                               | Paris, France              | 28 Nov 2026     |        | [Link](https://luma.com/fg1lny5k)      |
 | No Slop Allowed: A Creative Harness Hackathon by 36 Labs X fal     | London, UK                 | 28 Nov 2026     |        | [Link](https://luma.com/x0qhqiyl)      |
 | Reality Check - Robotics Hackathon                                 | London, UK                 | 28 Nov-29, 2026 |        | [Link](https://luma.com/aiengine-r88j) |
-| HACKATHON: Build AI on KASPA                                       | Le Kremlin-bicêtre, France | 28 Nov 2026     |        | [Link](https://luma.com/8dl5fglx)      |
+| WEB 3 Hackathon & Ideathon                                         | Split, Croatia             | 28 Nov-29, 2026 |        | [Link](https://luma.com/4tx1zlo8)      |
+| Lumi x Lume Marketing Hackathon                                    | London, UK                 | 28 Nov 2026     |        | [Link](https://luma.com/8h9h66mz)      |
+| Codex Community Hackathon – London                                 | London, UK                 | 28 Nov 2026     |        | [Link](https://luma.com/pq9gt2z0)      |
+| Construction Robotics Hackathon 2026 – Demo Day                    | Aachen, Germany            | 29 Nov 2026     |        | [Link](https://luma.com/9fl0swan)      |
+| Codex Community: #Hackathon Day 2                                  | Şişli, Turkey              | 29 Nov 2026     |        | [Link](https://luma.com/22e60hh3)      |
 | ALFRD Hackathon: Building the financial infrastructure of tomorrow | London, UK                 | 5 Dec 2026      |        | [Link](https://luma.com/jl7wx52x)      |
 
 <!-- UPCOMING_TABLE_END -->
