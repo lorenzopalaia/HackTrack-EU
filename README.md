@@ -16,14 +16,28 @@ Whether you're a seasoned hacker or a beginner looking for your first hackathon,
 
 ### 🟢 Upcoming Hackathons
 
-_Last updated: 27 November 2026 at 00:56_
+_Last updated: 27 November 2026 at 17:47_
 
 <!-- UPCOMING_TABLE_START -->
 
-| Hackathon Name               | Location                   | Date            | Topics | URL                               |
-| ---------------------------- | -------------------------- | --------------- | ------ | --------------------------------- |
-| HACKATHON: Build AI on KASPA | Le Kremlin-bicêtre, France | 28 Nov 2026     |        | [Link](https://luma.com/8dl5fglx) |
-| WEB 3 Hackathon & Ideathon   | Split, Croatia             | 28 Nov-29, 2026 |        | [Link](https://luma.com/4tx1zlo8) |
+| Hackathon Name                                                     | Location                   | Date            | Topics | URL                                    |
+| ------------------------------------------------------------------ | -------------------------- | --------------- | ------ | -------------------------------------- |
+| WEB 3 Hackathon & Ideathon                                         | Split, Croatia             | 28 Nov-29, 2026 |        | [Link](https://luma.com/4tx1zlo8)      |
+| Trinity Entrepreneurial Society's StartUp Weekend: Hackathon       | Dublin 8, Ireland          | 28 Nov-29, 2026 |        | [Link](https://luma.com/3hgofz45)      |
+| Rooftop Mobile App Hackathon                                       | London, UK                 | 28 Nov 2026     |        | [Link](https://luma.com/tjdf787t)      |
+| Prompt Startegy Hackathon                                          | Espoo, Finland             | 28 Nov-29, 2026 |        | [Link](https://luma.com/aaltoes-u79b)  |
+| Codex Community Hackathon: Aalen                                   | Aalen, Germany             | 28 Nov 2026     |        | [Link](https://luma.com/d4rlixh2)      |
+| START Berlin x IBM x ICEYE Hackathon                               | Berlin, Germany            | 28 Nov 2026     |        | [Link](https://luma.com/i50c46oh)      |
+| AI Health Hackathon Stockholm 2026                                 | Stockholm, Sweden          | 28 Nov 2026     |        | [Link](https://luma.com/c261sgl6)      |
+| Deezer Hackathon                                                   | Paris, France              | 28 Nov-29, 2026 |        | [Link](https://luma.com/0dfd8jau)      |
+| Physical AI Hackathon Karlsruhe                                    | Karlsruhe, Germany         | 28 Nov 2026     |        | [Link](https://luma.com/rzdmrlif)      |
+| Computer Use Agents Hackathon - London Edition                     | London, UK                 | 28 Nov 2026     |        | [Link](https://luma.com/hcompany-6xo3) |
+| Hackathon for Good: AI by Women, for Women                         | Amsterdam, Netherlands     | 28 Nov 2026     |        | [Link](https://luma.com/equals-utwi)   |
+| Launch Day Hackathon                                               | Paris, France              | 28 Nov 2026     |        | [Link](https://luma.com/fg1lny5k)      |
+| No Slop Allowed: A Creative Harness Hackathon by 36 Labs X fal     | London, UK                 | 28 Nov 2026     |        | [Link](https://luma.com/x0qhqiyl)      |
+| Reality Check - Robotics Hackathon                                 | London, UK                 | 28 Nov-29, 2026 |        | [Link](https://luma.com/aiengine-r88j) |
+| HACKATHON: Build AI on KASPA                                       | Le Kremlin-bicêtre, France | 28 Nov 2026     |        | [Link](https://luma.com/8dl5fglx)      |
+| ALFRD Hackathon: Building the financial infrastructure of tomorrow | London, UK                 | 5 Dec 2026      |        | [Link](https://luma.com/jl7wx52x)      |
 
 <!-- UPCOMING_TABLE_END -->
 
@@ -33,28 +47,28 @@ _Showing last 20 events_
 
 <!-- PAST_TABLE_START -->
 
-| Hackathon Name                                            | Location                          | Date            | Topics | URL                                           |
-| --------------------------------------------------------- | --------------------------------- | --------------- | ------ | --------------------------------------------- |
-| Mosque & Madrassah Hackathon 2026                         | London, UK                        | 27 Nov-29, 2026 |        | [Link](https://luma.com/bgovi683)             |
-| Nucleate x LAB³ - Bio-Hackathon Mainz 2026                | Mainz, Germany                    | 27 Nov-28, 2026 |        | [Link](https://luma.com/j80vx1m4)             |
-| VirWave × Lovable 🦃 Friendsgiving Hackathon              | London, UK                        | 27 Nov 2026     |        | [Link](https://luma.com/2p0zir0a)             |
-| Construction Robotics Hackathon 2026 – Kickoff            | Aachen, Germany                   | 27 Nov 2026     |        | [Link](https://luma.com/n7in8nv5)             |
-| Kickoff Night - Aggressive Machines Battleboat Buildathon | Tallinn, Estonia                  | 27 Nov 2026     |        | [Link](https://luma.com/8b27d7gd)             |
-| #42 - Vultr Agent Runtime Hackathon                       | Stockholm, Sweden                 | 27 Nov 2026     |        | [Link](https://luma.com/stockholm-nn3n)       |
-| AAU AI Hackathon                                          | Klagenfurt Am Wörthersee, Austria | 27 Nov-29, 2026 |        | [Link](https://luma.com/e6hvmjzd)             |
-| Host Planet & Boostly AI Buildathon                       | Leeds, UK                         | 27 Nov 2026     |        | [Link](https://luma.com/6d503u8s)             |
-| Agentic Hackathon: From Research to Commerce              | Berlin, Germany                   | 27 Nov 2026     |        | [Link](https://luma.com/research-to-commerce) |
-| Physical Education Vol. 1 — Mosaico Hackathon             | Milano, Italy                     | 27 Nov-29, 2026 |        | [Link](https://luma.com/mwu3zj7i)             |
-| One Prompt Hackathon with Lovable and YFL, at Oneder      | London, UK                        | 25 Nov 2026     |        | [Link](https://luma.com/bx21kd8g)             |
-| Community Hackathon: Ship it. For real.                   | Nürnberg, Germany                 | 25 Nov 2026     |        | [Link](https://luma.com/b5jbctbm)             |
-| Lovable Buildathon                                        | Kristianstad, Sweden              | 25 Nov 2026     |        | [Link](https://luma.com/l9k1nkha)             |
-| The Revenue Engine Hackathon: London                      | London, UK                        | 25 Nov 2026     |        | [Link](https://luma.com/5jpgv9nm)             |
-| Retail AI & Agents Hackathon - Innovators Guild           | London, UK                        | 24 Nov 2026     |        | [Link](https://luma.com/1ri4tr1c)             |
-| Open Court Hackathon with Wonder Studios                  | London, UK                        | 22 Nov 2026     |        | [Link](https://luma.com/fzy8ibe6)             |
-| Life Science Hack Day in Timișoara                        | Timișoara, Romania                | 21 Nov 2026     |        | [Link](https://luma.com/fawf2apy)             |
-| Lund AI Society x Everi Labs x node.vc Hackathon          | Lund, Sweden                      | 21 Nov 2026     |        | [Link](https://luma.com/3hxwl49j)             |
-| THE €5K BUILD & LAUNCH HACKATHON                          | Berlin, Germany                   | 21 Nov-22, 2026 |        | [Link](https://luma.com/613ahsn2)             |
-| Le Chonk in London - Mistral Vibe Hackathon               | London, UK                        | 21 Nov 2026     |        | [Link](https://luma.com/le-chonk-in-london)   |
+| Hackathon Name                                                                   | Location                          | Date            | Topics | URL                                             |
+| -------------------------------------------------------------------------------- | --------------------------------- | --------------- | ------ | ----------------------------------------------- |
+| Mosque & Madrassah Hackathon 2026                                                | London, UK                        | 27 Nov-29, 2026 |        | [Link](https://luma.com/bgovi683)               |
+| Nucleate x LAB³ - Bio-Hackathon Mainz 2026                                       | Mainz, Germany                    | 27 Nov-28, 2026 |        | [Link](https://luma.com/j80vx1m4)               |
+| VirWave × Lovable 🦃 Friendsgiving Hackathon                                     | London, UK                        | 27 Nov 2026     |        | [Link](https://luma.com/2p0zir0a)               |
+| Construction Robotics Hackathon 2026 – Kickoff                                   | Aachen, Germany                   | 27 Nov 2026     |        | [Link](https://luma.com/n7in8nv5)               |
+| Kickoff Night - Aggressive Machines Battleboat Buildathon                        | Tallinn, Estonia                  | 27 Nov 2026     |        | [Link](https://luma.com/8b27d7gd)               |
+| #42 - Vultr Agent Runtime Hackathon                                              | Stockholm, Sweden                 | 27 Nov 2026     |        | [Link](https://luma.com/stockholm-nn3n)         |
+| AAU AI Hackathon                                                                 | Klagenfurt Am Wörthersee, Austria | 27 Nov-29, 2026 |        | [Link](https://luma.com/e6hvmjzd)               |
+| Host Planet & Boostly AI Buildathon                                              | Leeds, UK                         | 27 Nov 2026     |        | [Link](https://luma.com/6d503u8s)               |
+| Agentic Hackathon: From Research to Commerce                                     | Berlin, Germany                   | 27 Nov 2026     |        | [Link](https://luma.com/research-to-commerce)   |
+| Physical Education Vol. 1 — Mosaico Hackathon                                    | Milano, Italy                     | 27 Nov-29, 2026 |        | [Link](https://luma.com/mwu3zj7i)               |
+| One Prompt Hackathon with Lovable and YFL, at Oneder                             | London, UK                        | 25 Nov 2026     |        | [Link](https://luma.com/bx21kd8g)               |
+| Community Hackathon: Ship it. For real.                                          | Nürnberg, Germany                 | 25 Nov 2026     |        | [Link](https://luma.com/b5jbctbm)               |
+| The Revenue Engine Hackathon: London                                             | London, UK                        | 25 Nov 2026     |        | [Link](https://luma.com/5jpgv9nm)               |
+| Lovable Buildathon                                                               | Kristianstad, Sweden              | 25 Nov 2026     |        | [Link](https://luma.com/l9k1nkha)               |
+| Retail AI & Agents Hackathon - Innovators Guild                                  | London, UK                        | 24 Nov 2026     |        | [Link](https://luma.com/1ri4tr1c)               |
+| Open Court Hackathon with Wonder Studios                                         | London, UK                        | 22 Nov 2026     |        | [Link](https://luma.com/fzy8ibe6)               |
+| Lovable Hackathon                                                                | Dresden, Germany                  | 21 Nov 2026     |        | [Link](https://luma.com/nhsr23nw)               |
+| SoTA Scientific Parallelism Hackathon - With Callosum, Inherent, ARIA + Fractile | London, UK                        | 21 Nov-22, 2026 |        | [Link](https://luma.com/scientific-parallelism) |
+| Build With Codex - Community Hackathon Heilbronn                                 | Heilbronn, Germany                | 21 Nov 2026     |        | [Link](https://luma.com/re0gtlv6)               |
+| Life Science Hack Day in Timișoara                                               | Timișoara, Romania                | 21 Nov 2026     |        | [Link](https://luma.com/fawf2apy)               |
 
 <!-- PAST_TABLE_END -->
 
